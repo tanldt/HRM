@@ -1,0 +1,5 @@
+D:\Projects\iHRP\iHRP_KPMG\WIP\Program\iHRP_Common\bin\iHRP_Common.dll
+D:\Projects\iHRP\iHRP_KPMG\WIP\Program\iHRP_Common\bin\iHRP_Common.pdb
+D:\Projects\iHRP\iHRP_KPMG\WIP\Program\iHRP_Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\iHRP\iHRP_KPMG\WIP\Program\iHRP_Common\obj\Debug\iHRP_Common.dll
+D:\Projects\iHRP\iHRP_KPMG\WIP\Program\iHRP_Common\obj\Debug\iHRP_Common.pdb
