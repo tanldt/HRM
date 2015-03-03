@@ -1,0 +1,1340 @@
+/* All format 
+	if add new for an exits style then put in right block:	
+	if add with new pupose must add 1 row here 
+	
+	1.format common
+	2.format backgroup
+	3.format text
+	4.format button
+	5.format grid
+
+
+/*1.-----------format common---------------------*/
+BODY
+{
+	/*background-color: LightSteelBlue;*/
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 24px;
+	color: #336699;
+}
+
+/*A { COLOR: #c00000; TEXT-DECORATION: none }	A:link { COLOR: #0000ff }	A:visited { COLOR: #0000ff }	A:hover {COLOR: #c00000;TEXT-DECORATION: none }	*/
+/*A { COLOR: Black; TEXT-DECORATION: none }	A:link { COLOR: Black }	A:visited { COLOR: Black }	A:hover {COLOR: #767656;TEXT-DECORATION: none }*/
+.font712613
+	{color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Symbol, serif;
+	mso-font-charset:2;}
+.xl24
+	{mso-style-parent:style0;
+	font-size:12.0pt;
+	font-family:Wingdings;
+	mso-generic-font-family:auto;
+	mso-font-charset:2;}
+TABLE
+{	font-family:Arial;
+	font-size:9px}
+
+TR 
+{	font-family:Arial;
+	font-size:9px
+}
+
+TD 
+{	
+	line-height: 18px;	
+	FONT-FAMILY: Arial,Helvetica;
+	FONT-SIZE:8pt;  COLOR: #000066;
+}
+.ButtonCommand{
+	HEIGHT:25px; FONT-FAMILY: Arial,Helvetica; width:75px; font-weight:Bold;
+	FONT-SIZE:8pt; background-color:CornflowerBlue; COLOR: white; BORDER-RIGHT: CornflowerBlue 1px NotSet; 
+	BORDER-TOP: CornflowerBlue 1px NotSet; BORDER-LEFT: CornflowerBlue 1px NotSet;
+	BORDER-BOTTOM: CornflowerBlue 1px NotSet;
+}
+.tblHeader
+{
+	/*background-color: LightSteelBlue;*/
+	background-color: #dcf2f4;
+}
+
+/*-------------format backgroup-------------------*/
+.Backgroud1
+{
+	/*background-color:White;*//* #c2effe;*/
+}
+
+/*-------------format link-------------------*/
+.LinkHorizontal:hover
+{
+	width: 70px;
+	font-weight:bold;
+	font-size: 8pt;
+	color: #000000;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	text-decoration:none;
+	
+}
+.LinkHorizontalSelected
+{
+	width: 70px;
+	font-weight:bold;
+	font-size: 8pt;
+	color: red;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	text-decoration:none;
+	
+}
+
+.LinkHorizontal
+{
+	width: 70px;
+	font-weight:bold;
+	font-size: 8pt;
+	color: White;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	text-decoration:none;
+	
+}
+.LinkHorizontalSmall
+{
+	
+	width: 50px;
+	font-size: 8pt;
+	color: #000000;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+}
+.LinkHorizontalLarge
+{
+	width: 90px;
+	font-size: 9pt;
+	color: #000000;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+}
+
+.LinkLeft:hover
+{
+	font-size: 8pt;
+	color: #ff6600;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	text-decoration:none;
+	
+}
+
+.LinkLeftSelected
+{
+	font-size: 8pt;
+	color: red;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	text-decoration:none;
+	
+}
+.LinkLeft
+{
+	font-size: 8pt;
+	color:#012F8E;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	text-decoration:none;
+	
+}
+.LinkLS:hover
+{
+	font-size: 8pt;
+	color: #ff6600;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	text-decoration:none;
+	
+}
+
+.LinkLSSelected
+{
+	font-size: 8pt;
+	color: red;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	text-decoration:none;
+	
+}
+.LinkLS
+{
+	font-size: 9pt;
+	color:#6699cc;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	text-decoration:none;	
+}
+
+.CurLeft
+{
+	font-size: 11pt;
+	color: black;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	text-decoration:none;
+	
+}
+
+.LinkModule:hover
+{
+	font-size: 9pt;
+	color: #ff6600;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	text-decoration:none;
+	
+}
+.LinkModule
+{
+	font-size: 9pt;
+	color: 0000ff;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	text-decoration:none;
+	
+}
+
+.Hlink:hover
+{
+	font-size: 8pt;
+	color: #000000;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	text-decoration:none;
+	
+}
+.Hlink
+{
+	font-size: 8pt;
+	color: 0000ff;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	text-decoration:none;
+	
+}
+
+.combo
+{
+	/*
+    FONT-SIZE: 8pt;
+    COLOR: #003399;
+    FONT-FAMILY: Arial;
+    BACKGROUND-COLOR: #f0faff
+BORDER-RIGHT: #012F8E 1px solid; 
+	BORDER-TOP: #012F8E 1px solid; BORDER-LEFT: #012F8E 1px solid; 
+	BORDER-BOTTOM: #012F8E 1px solid;
+*/
+	FONT-FAMILY: Arial,Helvetica;
+	FONT-SIZE:8pt;  COLOR: #000066; 
+	background-color:F5F7F6;
+	
+}
+
+.comboSort
+{
+    FONT-SIZE: 7pt;
+    COLOR: #003399;
+    FONT-FAMILY: Arial;
+    BACKGROUND-COLOR: #f0faff
+}
+
+/*-------------checkbox format-------------------*/
+.checkbox
+{
+	color: #003399;
+	font-size: 8pt;
+	font-family: Arial;
+}
+/*-------------checkbox format-------------------*/
+/*-------------checkbox format-------------------*/
+.chkAdmin
+{
+	color: #428EB5;
+	font-size: 8pt;
+	font-family: Arial;
+	BACKGROUND-COLOR: #DEEDF0
+}
+/*-------------checkbox format-------------------*/
+
+
+/*-------------option format-------------------*/
+.option
+{
+	color: Black;
+	font-size: 8pt;
+	font-family: Arial;
+}
+/*-------------checkbox format-------------------*/
+
+/*-------------label format-------------------*/
+/*nomal*/
+.label
+{
+	color: Black;
+	font-size: 8pt;
+	font-family: Arial;
+}
+.tanldt_grid
+{
+	color: #FFFFFF;
+	font-size: 8pt;
+	font-family: Arial;
+	background-color:Aqua
+}
+.ListBox
+{
+	FONT-FAMILY: Arial,Helvetica;
+	FONT-SIZE:8pt;  COLOR: #000066; BORDER-RIGHT: #000000 1px solid; 
+	BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; 
+	BORDER-BOTTOM: #000000 1px solid;
+}
+/*label right*/
+.labelRight
+{
+	color: #003399;
+	font-size: 8pt;
+	font-family: Arial;
+	text-align:right;
+}
+.labelCenter
+{
+	color: #003399;
+	font-size: 8pt;
+	font-family: Arial;
+	text-align:center;
+}
+/*require*/
+.labelTitle
+{
+	font-size: 17px;
+	font-family: Arial;
+	font-weight: bold;
+	color: #003399;
+}
+/*require*/
+.labelSubTitle
+{
+	font-size: 8pt;
+	font-family: Arial;
+	font-weight: bold;
+	color: #003399;
+}
+/*require*/
+.labelRequire
+{
+	font-size: 8pt;
+	color: Black;
+	font-family: Arial;
+}
+.Labelrequire_List
+{
+	font-size: 8pt;
+	color: Red;
+	font-family: Arial;
+	color:Maroon;
+}
+/*require*/
+.labelData
+{
+	font-weight: bold;
+	font-size: 8pt;
+	color: #0a246a;
+	/*border-style:solid;*/
+	border-color:White;
+	border-width:1px;
+	border-bottom-style:solid;
+	width:90%;
+	/*background-color:White;*/
+}
+/*Error*/
+.lblErr
+{
+	font-size: 8pt;
+	color: red;
+	font-family: Arial;
+}
+/*-------------end lebel format-------------------*/
+.TextMode{
+	FONT-FAMILY: Arial,Helvetica;
+	FONT-SIZE:8pt;  COLOR: #000066; BORDER-RIGHT: #012F8E 1px solid; 
+	BORDER-TOP: #012F8E 1px solid; BORDER-LEFT: #012F8E 1px solid; 
+	BORDER-BOTTOM: #012F8E 1px solid;
+	height:100px;
+}
+/*-------------text box format-------------------*/
+.Input{
+	FONT-FAMILY: Arial,Helvetica;
+	FONT-SIZE:8pt;  COLOR: #000066; BORDER-RIGHT: #012F8E 1px solid; 
+	BORDER-TOP: #012F8E 1px solid; BORDER-LEFT: #012F8E 1px solid; 
+	BORDER-BOTTOM: #012F8E 1px solid;
+	/*height:23px;*/
+}
+.InputNumber{
+	FONT-FAMILY: Arial,Helvetica;
+	FONT-SIZE:8pt;  COLOR: #000066; BORDER-RIGHT: #012F8E 1px solid; 
+	BORDER-TOP: #012F8E 1px solid; BORDER-LEFT: #012F8E 1px solid; 
+	BORDER-BOTTOM: #012F8E 1px solid;
+	text-align:right;
+	/*height:23px;*/
+}
+/*-------------end text box format-------------------*/
+/*-------------text box format none border-------------------*/
+.InputNoneBorder{
+	FONT-FAMILY: Arial,Helvetica;
+	FONT-SIZE:8pt;  COLOR: #000066; BORDER-RIGHT: #012F8E 0px solid; 
+	BORDER-TOP: #012F8E 0px solid; BORDER-LEFT: #012F8E 0px solid; 
+	BORDER-BOTTOM: #012F8E 0px solid;
+	/*height:23px;*/
+}
+/*-------------end text box format-------------------*/
+/*-------------text box read only format-------------------*/
+.InputReadOnly{
+	FONT-FAMILY: Arial,Helvetica;
+	FONT-SIZE:8pt;  COLOR: #000066; BORDER-RIGHT: #012F8E 1px solid; 
+	BORDER-TOP: #012F8E 1px solid; BORDER-LEFT: #012F8E 1px solid; 
+	BORDER-BOTTOM: #012F8E 1px solid;
+	background:#FFFFC8;
+	/*height:23px;*/
+}
+/*-------------end text box read only format-------------------*/
+/*-------------Link button format-------------------*/
+
+.search{
+	HEIGHT:20px; FONT-FAMILY: Arial,Helvetica; width:20px; font-weight:normal;
+	FONT-SIZE:8pt; background-color:C7D7FB; COLOR: #000000; BORDER-RIGHT: #000000 1px NotSet; 
+	BORDER-TOP: #000000 1px NotSet; BORDER-LEFT: #000000 1px NotSet;
+	BORDER-BOTTOM: #000000 1px NotSet;
+}
+.DeleteFile
+{
+	border:1px none #3366cc; padding-right: 4px;
+	background-position: left center;
+	background-image: url('../Images/ht1.gif');
+	font: smallcaption;
+	width: 70px;
+	color: #F5F7F6;
+	padding-top: 1px;
+	padding-bottom: 0px;
+	background-repeat: no-repeat;
+	HEIGHT: 22px;
+	BACKGROUND-COLOR: #F5F7F6;
+	text-align: center;
+}
+.Detail
+{
+	border:1px none #3366cc; padding-right: 4px;
+	background-position: left center;
+	background-image: url('../Images/Detail.jpg');
+	font: smallcaption;
+	width: 20px;
+	color: #F5F7F6;
+	padding-top: 1px;
+	padding-bottom: 0px;
+	background-repeat: no-repeat;
+	HEIGHT: 22px;
+	BACKGROUND-COLOR: #F5F7F6;
+	text-align: center;
+	
+}
+.btnHome
+{
+	background-position: left center;
+	background-image: url('../Images/Home.jpg');
+	width: 48px;
+	color: #003399;
+	background-repeat: no-repeat;
+	height: 25px
+}
+.btnLogout
+{
+	background-position: left center;
+	font-weight:bold;
+	color: #003399;
+	background-repeat: no-repeat;
+	height: 25px;
+	FONT-SIZE: 11px;
+	FONT-FAMILY: Verdana,sans-serif;
+	text-decoration:none;
+}
+.btnLogout:hover
+{
+	background-position: left center;
+	font-weight:bold;
+	color: #ff6600;
+	background-repeat: no-repeat;
+	height: 25px;
+	FONT-SIZE: 11px;
+	FONT-FAMILY: Verdana,sans-serif;
+	text-decoration:none;
+}
+.btnVN
+{
+	background-position: left center;
+	background-image: url('../Images/Vietnamese.jpg');
+	width: 48px;
+	color: #003399;
+	background-repeat: no-repeat;
+	height: 25px
+}
+.btnEN
+{
+	background-position: left center;
+	background-image: url('../Images/English.jpg');
+	width: 48px;
+	color: #003399;
+	background-repeat: no-repeat;
+	height: 25px
+}
+.btnLogo
+{
+	background-position: left center;
+	background-image: url('../Images/top-banner_01.gif');
+	width: 121px;
+	color: #003399;
+	background-repeat: no-repeat;
+	height: 70px
+}
+.btnTop02
+{
+	background-position: left center;
+	background-image: url('../Images/top-banner_02.gif');
+	width: 446px;
+	color: #003399;
+	background-repeat: no-repeat;
+	height: 43px
+}
+
+
+
+.btnChangeID
+{
+	border:1px none #3366cc; padding-right: 1px;
+	background-position: left center;
+	background-image: url('../Images/nut.jpg');
+	font: smallcaption;
+	width: 90px;
+	color: #003399;
+	padding-top: 1px;
+	padding-bottom: 0px;
+	background-repeat: no-repeat;
+	HEIGHT: 22px;
+	BACKGROUND-COLOR: white;
+	text-align: center;
+	FONT-SIZE:8pt;
+}
+
+.btnBuildCode
+{
+	border:1px none #3366cc; padding-right: 1px;
+	background-position: left center;
+	background-image: url('../Images/bg_button.gif');
+	font: smallcaption;
+	width: 100px;
+	color: #003399;
+	padding-top: 1px;
+	padding-bottom: 0px;
+	background-repeat: no-repeat;
+	HEIGHT: 22px;
+	BACKGROUND-COLOR: white;
+	text-align: center;
+	FONT-SIZE:8pt;
+}
+
+.btnCal
+{		
+	padding:0px; background-color:Transparent;
+	background-position: left center;
+	border: medium none;
+	background-image: url('../Images/cal.gif');
+	font: smallcaption;	
+	width: 18px;
+	HEIGHT: 18px;
+	color: #003399;
+	background-repeat: no-repeat;
+	FONT-SIZE:8pt;
+}
+.btnAddnew
+{
+	border:1px none white; padding-right: 4px;	
+	background-position: left center;
+	background-image: url('../Images/bg_button.gif');
+	/*font:caption;*/
+	font-size: 8pt;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	text-decoration:none;
+	font-weight:bold;
+	
+	width: 90px;
+	color: #003399;
+	padding-top: 1px;
+	padding-bottom: 0px;
+	background-repeat: no-repeat;
+	HEIGHT: 22px;
+	text-align:center;
+	BACKGROUND-COLOR: white	;
+	FONT-SIZE:8pt;
+}
+.btnSave
+{
+	border:1px none #3366cc; padding-right: 4px;
+	background-position: left center;
+	background-image: url('../Images/bg_button.gif');
+	/*font:caption;*/
+	font-size: 8pt;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	text-decoration:none;
+	font-weight:bold;
+	
+	
+	width: 90px;
+	color: #003399;
+	padding-top: 1px;
+	padding-bottom: 0px;
+	background-repeat: no-repeat;
+	HEIGHT: 22px;
+	BACKGROUND-COLOR: white;
+	text-align: center;
+	FONT-SIZE:8pt;
+}
+.btnAuthority
+{
+	border:1px none #3366cc; padding-right: 4px;
+	background-position: left center;
+	background-image: url('../Images/UserComputer.jpg');
+	/*font:caption;*/
+	font-size: 8pt;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	text-decoration:none;
+	font-weight:bold;
+	
+	
+	width: 32px;
+	color: #003399;
+	padding-top: 1px;
+	padding-bottom: 0px;
+	background-repeat: no-repeat;
+	HEIGHT: 32px;
+	BACKGROUND-COLOR: white;
+	text-align: center;
+	FONT-SIZE:8pt;
+}
+.btnForm
+{	
+	background-position: left center;
+	background-image: url('../Images/btnForm.jpg');	
+	width: 105px;
+	HEIGHT: 22px;
+}
+.btnPolicy
+{	
+	background-position: left center;
+	background-image: url('../Images/btnPolicy.jpg');	
+	width: 105px;
+	HEIGHT: 22px;
+}
+.btnArrow
+{
+	border:1px none #3366cc; padding-right: 4px;
+	background-position: left center;
+	background-image: url('../Images/bg_button.gif');
+	/*font:caption;*/
+	font-size: 8pt;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	text-decoration:none;
+	font-weight:bold;
+	
+	width: 90px;
+	color: #003399;
+	padding-top: 1px;
+	padding-bottom: 0px;
+	background-repeat: no-repeat;
+	HEIGHT: 22px;
+	BACKGROUND-COLOR: white;
+	text-align: center;
+	FONT-SIZE:8pt;
+}
+.Edit
+{
+	border:1px none #3366cc; padding-right: 4px;
+	background-position: left center;
+	background-image: url('../Images/bg_button.gif');
+	font: smallcaption;
+	width: 90px;
+	color: #003399;
+	padding-top: 1px;
+	padding-bottom: 0px;
+	background-repeat: no-repeat;
+	HEIGHT: 22px;
+	BACKGROUND-COLOR: white;
+	text-align: center;
+	FONT-SIZE:8pt;
+}
+
+.btnDelete
+{
+	border:1px none #3366cc; padding-right: 4px;
+	background-position: left center;
+	background-image: url('../Images/bg_button.gif');
+	/*font:caption;*/
+	font-size: 8pt;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	text-decoration:none;
+	font-weight:bold;
+	
+	width: 90px;
+	color: #003399;
+	padding-top: 1px;
+	padding-bottom: 0px;
+	background-repeat: no-repeat;
+	height: 22px;
+	BACKGROUND-COLOR: white;
+	text-align: center;
+	FONT-SIZE:8pt;
+}
+
+.btnFilter
+{
+	border:1px none #3366cc; padding-right: 1px;
+	background-position: left center;
+	background-image: url('../Images/bg_button.gif');
+	/*font:caption;*/
+	font-size: 8pt;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	text-decoration:none;
+	font-weight:bold;
+	
+	width: 90px;
+	color: #003399;
+	padding-top: 1px;
+	padding-bottom: 0px;
+	background-repeat: no-repeat;
+	HEIGHT: 22px;
+	BACKGROUND-COLOR: white;
+	text-align: center;
+	FONT-SIZE:8pt;
+
+}
+
+.btnPrint
+{
+	border:1px none #3366cc; padding-right: 4px;
+	background-position: left center;
+	background-image: url('../Images/bg_button.gif');
+	/*font:caption;*/
+	font-size: 8pt;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	text-decoration:none;
+	font-weight:bold;
+	
+	width: 90px;
+	color: #003399;
+	padding-top: 1px;
+	padding-bottom: 0px;
+	background-repeat: no-repeat;
+	HEIGHT: 22px;
+	BACKGROUND-COLOR: white;
+	text-align: center;
+	FONT-SIZE:8pt;
+
+}
+
+.btnBrowse
+{
+	border:1px none #3366cc; padding-right: 4px;
+	background-position: left center;
+	background-image: url('../Images/bg_button.gif');
+	/*font:caption;*/
+	font-size: 8pt;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	text-decoration:none;
+	font-weight:bold;
+	
+	width: 90px;
+	color: #003399;
+	padding-top: 1px;
+	background-repeat: no-repeat;
+	HEIGHT: 22px;
+	BACKGROUND-COLOR: white;
+	text-align: center;
+	FONT-SIZE:8pt;
+}
+
+.btnList
+{
+	border:1px none #3366cc; padding-right: 4px;
+	background-position: left center;
+	background-image: url('../Images/bg_button.gif');
+	/*font:caption;*/
+	font-size: 8pt;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	text-decoration:none;
+	font-weight:bold;
+	
+	width: 90px;
+	color: #003399;
+	padding-top: 1px;
+	padding-bottom: 0px;
+	background-repeat: no-repeat;
+	HEIGHT: 22px;
+	BACKGROUND-COLOR: white;
+	text-align: center;
+	FONT-SIZE:8pt;
+
+}
+.btnImport
+{
+	border:1px none #3366cc; padding-right: 4px;
+	background-position: left center;
+	background-image: url('../Images/bg_button.gif');
+	/*font:caption;*/
+	font-size: 8pt;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	text-decoration:none;
+	font-weight:bold;
+	
+	width: 90px;
+	color: #003399;
+	padding-top: 1px;
+	padding-bottom: 0px;
+	background-repeat: no-repeat;
+	HEIGHT: 22px;
+	BACKGROUND-COLOR: white;
+	text-align: center;
+	FONT-SIZE:8pt;
+
+}
+
+.btnExport
+{
+	border:1px none #3366cc; padding-right: 4px;
+	background-position: left center;
+	background-image: url('../Images/bg_button.gif');
+	/*font:caption;*/
+	font-size: 8pt;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	text-decoration:none;
+	font-weight:bold;
+	
+	width: 90px;
+	color: #003399;
+	padding-top: 1px;
+	padding-bottom: 0px;
+	background-repeat: no-repeat;
+	HEIGHT: 22px;
+	BACKGROUND-COLOR: white;
+	text-align: center;
+}
+
+.btnClose
+{
+	border:1px none #3366cc; padding-right: 4px;
+	background-position: left center;
+	background-image: url('../Images/bg_button.gif');
+	/*font:caption;*/
+	font-size: 8pt;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	text-decoration:none;
+	font-weight:bold;
+	
+	width: 90px;
+	color: #003399;
+	padding-top: 1px;
+	padding-bottom: 0px;
+	background-repeat: no-repeat;
+	HEIGHT: 22px;
+	BACKGROUND-COLOR: white;
+	text-align: center;
+}
+.btnSearch
+{
+	border:1px none #3366cc; padding-right: 4px;
+	background-position: left center;
+	background-image: url('../Images/bg_button.gif');
+	/*font:caption;*/
+	font-size: 8pt;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	text-decoration:none;
+	font-weight:bold;
+	
+	width: 90px;
+	color: #003399;
+	padding-top: 1px;
+	padding-bottom: 0px;
+	background-repeat: no-repeat;
+	HEIGHT: 22px;
+	BACKGROUND-COLOR: white;
+	text-align: center;
+}
+
+.RightArrow
+{
+	border:1px none #3366cc; padding-right: 4px;
+	background-position: left center;
+	background-image: url('../Images/RightArrow.jpg');
+	font: smallcaption;
+	width: 90px;
+	color: #003399;
+	padding-top: 1px;
+	padding-bottom: 0px;
+	background-repeat: no-repeat;
+	HEIGHT: 22px;
+	BACKGROUND-COLOR: white;
+	text-align: center
+}
+
+.LeftArrow
+{
+	border:1px none #3366cc; padding-right: 4px;
+	background-position: left center;
+	background-image: url('../Images/LeftArrow.jpg');
+	font: smallcaption;
+	width: 20px;
+	color: #003399;
+	padding-top: 1px;
+	padding-bottom: 0px;
+	background-repeat: no-repeat;
+	HEIGHT: 22px;
+	BACKGROUND-COLOR: white;
+	text-align: center
+}
+
+.btnAddnew_sub
+{
+	border:1px solid #3366cc; width: 20px;
+	height: 20px;
+	background-color: White;
+	background-position:  center;
+	background-image: url('../Images/db-Add.ico');
+	background-repeat: no-repeat;
+	
+}
+
+.btnDelete_sub
+{
+	border:1px solid #3366cc; width: 20px;
+	height: 20px;
+	background-color: White;
+	background-position:  center;
+	background-image: url('../Images/db-Delete.ico');
+	background-repeat: no-repeat;
+	
+}
+
+.btnRefresh_sub
+{
+	border:1px solid #3366cc; width: 20px;
+	height: 20px;
+	background-color: White;
+	background-position:  center;
+	background-image: url('../Images/db-Refresh.ico');
+	background-repeat: no-repeat;
+	
+}
+
+.btnShow
+{
+	border:1px solid #3366cc; padding-right: 4px;
+	background-position: left center;
+	background-image: url('../Images/FIND.BMP');
+	font: smallcaption;
+	width: 70px;
+	color: #003399;
+	padding-top: 1px;
+	padding-bottom: 0px;
+	background-repeat: no-repeat;
+	HEIGHT: 22px;
+	BACKGROUND-COLOR: #93bee2;
+	text-align: center
+
+}
+
+.btn
+{
+	border:1px none #3366cc; padding-right: 4px;
+	background-position: left center;
+	background-image: url('../Images/nutsmall.jpg');
+	/*font:caption;*/
+	font-size: 8pt;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	text-decoration:none;
+	font-weight:bold;
+	
+	width: 60px;
+	color: #003399;
+	padding-top: 1px;
+	padding-bottom: 0px;
+	background-repeat: no-repeat;
+	HEIGHT: 22px;
+	BACKGROUND-COLOR: white;
+	text-align: center
+}
+
+.btnSYS
+{
+	border:1px none #3366cc; padding-right: 4px;
+	background-position: left center;
+	background-image: url('../Images/nutlarge.jpg');
+	/*font:caption;*/
+	font-size: 8pt;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	text-decoration:none;
+	font-weight:bold;
+	
+	width: 130px;
+	color: #003399;
+	padding-top: 1px;
+	padding-bottom: 0px;
+	background-repeat: no-repeat;
+	HEIGHT: 22px;
+	BACKGROUND-COLOR: white;
+	text-align: center
+}
+/*-------------end button format-------------------*/
+/*-------------DataList format-------------------*/
+.dtlist
+{
+	font-size: 8pt;
+	font-family: Arial;
+	background-color: White;
+	border: Inset 1px;
+}
+/*-------------end datalist format-------------------*/
+/*-------------grid format-------------------*/
+.grid
+{
+	font-size: 8pt;
+	font-family: Arial;
+	background-color: White;
+}
+
+.gridHeader
+{
+	height: 21px;
+	color:#CCCCFF;
+	font-weight: bold;
+	text-align: center;
+	background-color: #dcdcdc;
+}
+.gridHeader a:link { 
+  color:  #000066 ; 
+  text-decoration: none 
+}
+.gridHeader a:visited { 
+  color: #0033CC; 
+  text-decoration: none 
+}
+.gridHeader a:hover { 
+  color: #000066; 
+  text-decoration: underline 
+}
+
+.gridFooter
+{
+	height: 21px;
+	color: #CCCCFF;
+	font-weight: bold;
+	text-align: center;
+	font-size: 8pt;
+	background-color: #D6D7E1;
+}
+.gridhover 
+{
+	background-color: #DFEEF1;
+	cursor: hand; 
+	padding-left: 3;
+	padding-right: 3;
+	font-size: 8pt;
+}
+.gridClick
+{
+	color: #333333;
+	background-color: #D7E4EA;
+	padding-left: 3;
+	padding-right: 3;
+	font-size: 8pt;
+}
+.gridItem
+{
+	color: Black;
+	background-color: White;
+	padding-left: 3;
+	padding-right: 3;
+	font-size: 8pt;
+}
+.gridItem a:link { 
+  color: #ff6600 ; 
+  text-decoration: none 
+}
+.gridItem a:visited { 
+  color: #ff6600; 
+  text-decoration: none 
+}
+.gridItem a:hover { 
+  color: #0033CC; 
+  text-decoration: underline 
+}
+.gridAlter
+{
+	color: #003399;
+	background-color: #F6F6F8;
+	padding-left: 3;
+	padding-right: 3;
+	font-size: 8pt;
+}
+.gridAlter a:link { 
+  color: #ff6600 ; 
+  text-decoration: none 
+}
+.gridAlter a:visited { 
+  color: #ff6600; 
+  text-decoration: none 
+}
+.gridAlter a:hover { 
+  color: #0033CC; 
+  text-decoration: underline 
+}
+.gridPage
+{
+	height: 19px;
+	color: #003399;
+	text-align: right;
+	font-weight: bold;
+	font-size: 8pt;
+	background-color: #DCDCDC;
+}
+.grid_line
+{
+	border: #4A2C00;
+}
+/*-------------grid format-------------------*/
+
+/* ------------- LEFT MENU DIVIDER -------------*/
+.personel
+{	
+	color: #012F8E;
+	font-size: 10pt;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	background-image:url('none');		
+}
+.record
+{	
+	color: #012F8E;
+	font-size: 10pt;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	background-image:url('none');	
+}
+.recordSelected
+{	
+	color: #FF0000;
+	font-size: 10pt;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	background-image:url('none');	
+}
+.details
+{	
+	color: 012F8E;
+	font-size: 10pt;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	background-image:url('none');	
+}
+.others
+{	
+	color: 012F8E;
+	font-size: 10pt;
+	font-family: Arial,verdana, Helvetica, sans-serif;
+	background-image:url('none');	
+}
+.select
+{
+	font-family:Arial,verdana,Tahoma, Helvetica, sans-serif;
+	font-size:8pt;
+	text-align:center;
+	color:Navy;
+}
+
+.MySelect
+{
+	font-family:Tahoma;
+	font-size:8pt;
+	text-align:center;
+	color:Navy;
+	border:solid 1px #f5f5f5;
+	border-left:solid 1px #f5f5f5;
+}
+.button 
+{
+	text-decoration: none ;
+	BORDER-RIGHT: #dddddd 0px outset; 
+	BORDER-TOP: #dddddd 0px outset; 
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 8pt; 
+	BACKGROUND-IMAGE: url(../images/bg_button.gif); 
+	BORDER-LEFT: #dddddd 0px outset; 
+	CURSOR: hand; 
+	COLOR: #003399; 
+	BORDER-BOTTOM: #dddddd 0px outset; 
+	BACKGROUND-REPEAT: repeat; 
+	FONT-FAMILY: Tahoma; 
+	HEIGHT: 21px;
+	width: 90px
+}
+.button a:hover {
+   text-decoration: none ;
+	BORDER-RIGHT: #dddddd 0px outset; 
+	BORDER-TOP: #dddddd 0px outset; 
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 8pt; 
+	BACKGROUND-IMAGE: url(none); 
+	BORDER-LEFT: #dddddd 0px outset; 
+	CURSOR: hand; 
+	COLOR: #003399; 
+	BORDER-BOTTOM: #dddddd 0px outset; 
+	BACKGROUND-REPEAT: repeat; 
+	FONT-FAMILY: Tahoma; 
+	HEIGHT: 21px;
+	width: 90px
+}
+.TaskGrid_Head
+{
+	height: 21px;
+	color: #CCCCFF;
+	font-weight: bold;
+	text-align: center;
+	background-color: #dcdcdc;
+}
+.TaskGrid_Head a:link { 
+  color: #000066 ; 
+  text-decoration: none 
+}
+.TaskGrid_Head a:visited { 
+  color: #000066; 
+  text-decoration: none 
+}
+.TaskGrid_Head a:hover { 
+  color: #000066; 
+  text-decoration: underline 
+}
+
+.mainTable {
+	background-color: #FFFFFF;
+	border: 1px solid #003366;
+	font-size: 12px; 
+	font-family: Geneva, Verdana, Arial, sans-serif;
+ }
+  /* News */
+.News_LoaiTin_Link A			{ font-family: arial; font-weight:bold;font-size: 13px; color: #A30B06; text-align:left; border-collapse:collapse;text-decoration:none;    }
+.News_LoaiTin_Link :Hover		{ font-family: arial; font-weight:bold;font-size: 13px; color: #A30B06; text-align:left; border-collapse:collapse;text-decoration:underline;}
+.News_LoaiTin_Link Visited		{ font-family: arial; font-weight:bold;font-size: 13px; color: #A30B06; text-align:left; border-collapse:collapse; text-decoration:none;}
+.News_LoaiTin_Link Active		{ font-family: arial; font-weight:bold;font-size: 13px; color: #A30B06; text-align:left; border-collapse:collapse;text-decoration:none;}
+
+.BoundButtonLink A			{ font-family: arial; font-weight:bold;font-size: 12px; color: #000000; text-align:left; border-collapse:collapse;text-decoration:none;    }
+.BoundButtonLink :Hover		{ font-family: arial; font-weight:bold;font-size: 12px; color: #000000; text-align:left; border-collapse:collapse;text-decoration:underline;}
+.BoundButtonLink Visited	{ font-family: arial; font-weight:bold;font-size: 12px; color: #0B51B0; text-align:left; border-collapse:collapse; text-decoration:none;}
+.BoundButtonLink Active		{ font-family: arial; font-weight:bold;font-size: 12px; color: #000000; text-align:left; border-collapse:collapse;text-decoration:none;}
+
+.News_TieuDeTinChinh A			{ font-family: arial; font-weight:bold;font-size: 12px; color: #000000; text-align:left; border-collapse:collapse;text-decoration:none;    }
+.News_TieuDeTinChinh :Hover		{ font-family: arial; font-weight:bold;font-size: 12px; color: #000000; text-align:left; border-collapse:collapse;text-decoration:underline;}
+.News_TieuDeTinChinh Visited	{ font-family: arial; font-weight:bold;font-size: 12px; color: #0B51B0; text-align:left; border-collapse:collapse; text-decoration:none;}
+.News_TieuDeTinChinh Active		{ font-family: arial; font-weight:bold;font-size: 12px; color: #000000; text-align:left; border-collapse:collapse;text-decoration:none;}
+ 
+ .News_Link A		{ color:#000000; font-family: arial; font-size: 12px;font-weight:normal;text-align:center;text-decoration:none;  }
+.News_Link :Hover	{ color:#000000; font-family: arial; font-size: 12px;font-weight:normal;text-align:justify; text-decoration:underline;}
+.News_Link Active	{ color:#000000; font-family: arial; font-size: 12px;font-weight:normal;text-align:justify;text-decoration:none; }
+.News_Link Visited	{ color:#0B51B0; font-family: arial; font-size: 12px;font-weight:normal;text-align:justify;text-decoration:none; }
+
+/*
+.Button
+{
+	border:1px none #3366cc; padding-right: 4px;
+	background-position: left center;
+	background-image: url('../Images/nut.jpg');
+	font: smallcaption;
+	width: 90px;
+	color: #003399;
+	padding-top: 1px;
+	padding-bottom: 0px;
+	background-repeat: no-repeat;
+	HEIGHT: 22px;
+	BACKGROUND-COLOR: white;
+	text-align: center;
+	
+}
+}*/
+#LeftMNav {
+z-index : 100000; 
+} 
+#LeftMNav UL {
+padding-right : 0; 
+padding-left : 0; 
+padding-bottom : 0; 
+margin : 0; 
+width : auto; 
+color : #ffffff; 
+padding-top : 0; 
+background-color : #bacee0; 
+} 
+#LeftMNav LI {
+padding-right : 0; 
+padding-left : 0; 
+padding-bottom : 0; 
+margin : 0; 
+padding-top : 0; 
+list-style-type : none; 
+} 
+#LeftMNav a {
+border-right : 1px solid #c3c8cb; 
+padding-right : 0; 
+background-position : 100% 50%;
+border-top : 1px solid #fefefe; 
+display : block; 
+padding-left : 2px; 
+font-weight : normal; 
+padding-bottom : 3px; 
+border-left : 1px solid #fefefe; 
+padding-top : 3px; 
+border-bottom : 1px solid #c3c8cb; 
+background-color: #eaeeee; 
+font-size : 11px; 
+color : #048; 
+font-family : verdana,arial,helvetica,sans-serif; 
+text-decoration : none; 
+} 
+#LeftMNav a:hover {
+border-left-color : #fefefe;
+border-bottom-color : #c3c8cb; 
+border-top-color : #fefefe; 
+background-color: #f8fafc;
+border-right : 3px solid #E65B00; 
+font-size : 11px; 
+color : #ff3e3e; 
+font-family : verdana,arial,helvetica,sans-serif; 
+text-decoration : none; 
+} 
+#LeftMNav a:active {
+border-left-color : #fefefe; 
+border-bottom-color : #c3c8cb; 
+border-top-color : #fefefe; 
+background-color : #f8fafc; 
+border-right-color : #c3c8cb; 
+font-size : 11px; 
+color : #048; 
+font-family : verdana,arial,helvetica,sans-serif; 
+text-decoration : none; 
+} 
+.menuheader {
+font-family : verdana,arial,helvetica,sans-serif; 
+font-size : 11px; 
+text-align : left; 
+font-weight : bold; 
+color : #fff; 
+background: #6898d0 url(../Images/arrow_orange.gif) no-repeat center left; 
+padding-top : 3px; 
+padding-bottom : 3px; 
+padding-left : 14px; 
+border-bottom : 1px solid #3a6081; 
+border-right : 1px solid #3a6081; 
+border-top : 1px solid #f1f5fa; 
+display : block; 
+} 
+.arw {
+font-size : 11px; 
+color : #DF5900; 
+font-family : Verdana, arial, helvetica, sans-serif; 
+text-decoration : none; 
+}

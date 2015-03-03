@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<Resources language="Vietnam" code="vn">
+	<page name="COMMON">
+		<!-- common... -->
+		<Resource tag="ADDNEW">Thêm mới</Resource>
+		<Resource tag="SEARCH">Tìm</Resource>
+		<Resource tag="SAVE">Lưu</Resource>
+		<Resource tag="DELETE">Xoá</Resource>
+		<Resource tag="EXPORT">Xuất Excel</Resource>
+		<Resource tag="CONFIRMDELETE">Bạn thật sự muốn xoá?</Resource>
+		<Resource tag="CONFFROMTOMONTH">Từ tháng không thể lớn hơn đến tháng</Resource>
+		<Resource tag="SUCCESSFUL">Update successful!</Resource>
+		<Resource tag="NOTSUCCESSFUL">Update not successful!</Resource>
+		<Resource tag="COMFONESELECT">Vui lòng chọn 1 dòng trước khi xoá</Resource>
+		<Resource tag="CONFDATE">Vui lòng nhập ngày</Resource>
+		<Resource tag="CONFFROMDATE">Vui lòng nhập từ ngày</Resource>
+		<Resource tag="CONFTODATE">Vui lòng nhập đến ngày</Resource>
+	</page>
+	<page name="FILESELECT">
+		<Resource tag="NOTFORMAT">{0} : Không đúng dạng Excel (.xls)</Resource>
+		<Resource tag="VALIDEXCEL">Please select file Excel</Resource>
+		<Resource tag="SELECTEXCEL">Please select file Excel to import</Resource>
+		<Resource tag="DELETE">Xoá</Resource>
+		<Resource tag="EXPORT">Xuất Excel</Resource>
+		<Resource tag="CONFIRMDELETE">Bạn thật sự muốn xoá?</Resource>
+		<Resource tag="ERRORVIEWFILE">File không đúng định dạng. Vui lòng xem file Template</Resource>
+		<Resource tag="ERRORSAVEFILE">Please select file Excel and view grid before click save!</Resource>
+		<Resource tag="TAISUCCESSFUL">Download complete!</Resource>
+	</page>
+	<page name="EDITSTSHORT">
+		<Resource tag="CONFFROMDATE">Vui lòng nhập từ ngày</Resource>
+		<Resource tag="CONFTODATE">Vui lòng nhập đế ngày</Resource>
+		<Resource tag="CONFCOMPAREFROMTODATE">Ngày bắt đầu phải trước ngày kết thúc</Resource>
+		<Resource tag="CONFCOMPANY">Vui lòng chọn công ty</Resource>
+		<Resource tag="CONFLEVEL1">Vui lòng chọn đơn vị</Resource>
+		<Resource tag="CONFLEVEL2">Vui lòng chọn phòng ban</Resource>
+		<Resource tag="LBLNOTE">- Nhấn "Mở rộng" để hiển thị phần hỗ trợ nhập liệu[br]
+			- Nhấn "Đơn giản" để giấu phần hỗ trợ nhập liệu</Resource>
+	</page>
+	<page name="DEDUCTION">
+		<Resource tag="CONFFROMDATE">Vui lòng nhập từ ngày</Resource>
+		<Resource tag="CONFTODATE">Vui lòng nhập đến ngày</Resource>
+		<Resource tag="CONFCOMPAREFROMTODATE">Ngày bắt đầu phải trước ngày kết thúc</Resource>
+		<Resource tag="LBLNOTE">- Nhấn "Mở rộng" để hiện thị phần hỗ trợ nhập liệu[br]
+			- Nhấn "Đơn giản" để dấu phần hỗ trợ nhập liệu</Resource>
+	</page>
+	<page name="PARAMCALINCOME">
+		<Resource tag="CONFMINSALARY">Vui lòng nhập lương tối thiểu</Resource>
+		<Resource tag="CONFBASICSALARY">Vui lòng nhập lương cơ bản</Resource>
+	</page>
+	<page name="LISTOFSALARY">
+		<Resource tag="CONFLSSALARYITEMCODE">Vui lòng nhập chỉ tiêu lương</Resource>
+		<Resource tag="CONFNAME">Vui lòng nhập tên</Resource>
+		<Resource tag="CONFVNNAME">Vui lòng nhập tên VN</Resource>
+		<Resource tag="CONFCOMPUTRIONSEQ">Vui lòng nhập Thứ tự tính toán</Resource>
+		<Resource tag="CONFRPTORDINAL">Vui lòng nhập thứ tự báo cáo</Resource>
+		<Resource tag="CONFRANK">Vui lòng nhập thứ tự</Resource>
+		<Resource tag="COMFONESELECT">Vui lòng chọn 1 dòng dưới lưới trước khi lưu</Resource>
+		<Resource tag="CONFFROMMONTH">Vui lòng nhập tháng - năm lương</Resource>
+		<Resource tag="CONFSALPERIOD">Vui lòng chọn kỳ lương</Resource>
+		<Resource tag="CONFASSIGN">Vui lòng click chọn "Gán chỉ tiêu cho nhân viên"</Resource>
+	</page>
+</Resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Resources language="English" code="en">
+	<page name="COMMON">
+		<!-- common... -->
+		<Resource tag="ADDNEW">Powered by {0} version {1}</Resource>
+		<Resource tag="SEARCH">This page was generated in {0:N3} seconds.</Resource>
+		<Resource tag="SAVE">Save</Resource>
+		<Resource tag="DELETE">Cancel</Resource>
+		<Resource tag="EXPORT">Forum Jump</Resource>
+	</page>
+</Resources>
