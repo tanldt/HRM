@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iHRP_Common", "..\iHRP_Common\iHRP_Common.csproj", "{BFCDD88B-9588-420A-8BD4-A7D8E9336871}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iHRP_KPMG", "iHRP_KPMG.csproj", "{599B193C-874C-4FC6-9585-2A6FAE21A643}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPTToolWeb", "E:\Projects\eYourkey\FPTToolWeb\FPTToolWeb.csproj", "{C7C4D656-AB94-42E5-B908-924E3988A17B}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 1
+		SccProjectUniqueName0 = E:\\Projects\\eYourkey\\FPTToolWeb\\FPTToolWeb.csproj
+		SccProjectName0 = \u0022$/Program/FPTToolWeb\u0022,\u0020EAAAAAAA
+		SccLocalPath0 = E:\\Projects\\eYourkey\\FPTToolWeb
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFCDD88B-9588-420A-8BD4-A7D8E9336871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFCDD88B-9588-420A-8BD4-A7D8E9336871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFCDD88B-9588-420A-8BD4-A7D8E9336871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFCDD88B-9588-420A-8BD4-A7D8E9336871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{599B193C-874C-4FC6-9585-2A6FAE21A643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599B193C-874C-4FC6-9585-2A6FAE21A643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599B193C-874C-4FC6-9585-2A6FAE21A643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599B193C-874C-4FC6-9585-2A6FAE21A643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7C4D656-AB94-42E5-B908-924E3988A17B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C4D656-AB94-42E5-B908-924E3988A17B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
