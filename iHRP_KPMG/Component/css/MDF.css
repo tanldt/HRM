@@ -1,0 +1,170 @@
+H1              {
+                font-family: Verdana, Arial;
+                font-size: medium;
+                }
+H2              {
+                font-family: Verdana, Arial;
+                font-size: small;
+                }
+BODY
+{
+	font-size: x-small;
+	margin: 2px 0px 0px 10px;
+	line-height: 5px;
+	font-family: Verdana, Arial;
+}
+TABLE           {
+                font-family: Verdana, Arial;
+                font-size: x-small;
+                }
+INPUT           {
+                font-family: Verdana, Arial;
+                font-size: x-small;
+                }
+INPUTNUMBER     {
+                font-family: Verdana, Arial;
+                font-size: x-small;
+                text-align:right;
+                }                
+SELECT          {
+                font-family: Verdana, Arial;
+                font-size: x-small;
+                }
+a:link
+{
+	font-weight: bold;
+	color: blue;
+	text-decoration: underline;
+}
+a:active        {
+                color: blue;
+                font-weight: bold;
+                text-decoration: underline;
+                }
+a:visited       {
+                color: blue;
+                font-weight: bold;
+                text-decoration: underline;
+                }
+a:hover         {
+                color: blue;
+                font-weight: bold;
+                text-decoration: underline;
+                }
+.navtable       {
+                background-color: #000066;
+                color: #FFFFFF;
+                font-weight: bold;
+                }
+.navtext        {
+                color: #FFFFFF;
+                font-weight: bold;
+                }
+.navlink:link   {
+                color: silver;
+                text-decoration: none;
+                }
+.navlink:active {
+                color: silver;
+                text-decoration: none;
+                }
+.navlink:visited {
+                color: silver;
+                text-decoration: none;
+                }
+.navlink:hover  {
+                color: white;
+                text-decoration: underline;
+                }
+.rheader        {
+                background-color: #000066;
+                color: white;
+		font-weight: bold;
+                }
+.rheadercol2     {
+                border-color: black;
+                border-style: solid;
+                border-width: 1;
+                }
+.rheadercoll2    {
+                border-color: black;
+                border-right: 0;
+                border-style: solid;
+                border-width: 1;
+                }
+.rheadercolr2    {
+                border-color: black;
+                border-left: 0;
+                border-style: solid;
+                border-width: 1;
+                }
+.rbody          {
+                background-color: #FFFFFF;
+                }
+.rbodycol2       {
+                border-color: black;
+                border-style: solid;
+                border-top: 0;
+                border-width: 1;
+                }
+.smalltext       {
+                COLOR: gray;
+                FONT-FAMILY: Verdana, Arial;
+                FONT-SIZE: 9pt;
+                LINE-HEIGHT: 140%
+                }
+
+.labeltext
+{
+	font-weight: bold;
+	font-size: x-small;
+	color: white;
+	font-family: "Verdana" , "Arial";
+	/*height: 25px;*/
+	 
+}
+
+.inputpanel
+{
+BORDER-RIGHT: #808080 1px solid; 
+BORDER-TOP: #808080 1px solid; 
+BORDER-LEFT: #808080 1px solid; 
+BORDER-BOTTOM: #808080 1px solid; 
+BORDER-COLLAPSE: collapse
+}
+.dgheader
+{
+	font-weight: bold;
+	border-bottom: #808080 1px solid;
+	background-color: #ffffb0;
+	BORDER-COLLAPSE:separate
+}
+
+.subnavbar
+{
+	border-bottom-color: silver;
+	background-color: #ffffb0;
+	BORDER-RIGHT: #808080 1px solid; 
+	BORDER-LEFT: #808080 1px solid; 
+	BORDER-BOTTOM: #808080 1px solid;
+	border-collapse:collapse;
+	height:23px
+}
+
+.contentspace
+{
+	border-bottom-color: silver;
+	BORDER-RIGHT: #808080 1px solid; 
+	BORDER-LEFT: #808080 1px solid; 
+	BORDER-BOTTOM: #808080 1px solid;
+	border-collapse:collapse;
+
+}
+BR
+{
+	font-size: x-small;
+}
+.dgalteritem
+{
+	background-color: #ccffcc;
+}

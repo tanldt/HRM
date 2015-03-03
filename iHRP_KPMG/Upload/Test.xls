@@ -1,0 +1,823 @@
+<table cellspacing="0" rules="all" border="1" id style="border-collapse:collapse;">
+	<tr style="font-weight:bold;">
+		<td>LSHospitalID</td><td>LSHospitalCode</td><td>Name</td><td>VNName</td><td>Rank</td><td>Note</td><td>Used</td><td>ProvinceID</td><td>LocationID</td>
+	</tr><tr>
+		<td>001</td><td>001</td><td>Bv Đa Khoa Sài Gòn</td><td>Bv Đa Khoa Sài Gòn</td><td>3</td><td>321</td><td>True</td><td>&nbsp;</td><td>HCM</td>
+	</tr><tr>
+		<td>004</td><td>004</td><td>Pkđk Quận 1 - Thđ</td><td>Pkđk Quận 1 - Thđ</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>005</td><td>005</td><td>Bv Điều Dưỡng Phcn Bưu Điện</td><td>Bv Điều Dưỡng Phcn Bưu Điện</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>006</td><td>006</td><td>Trung Tâm Y Tế Quận 2</td><td>Trung Tâm Y Tế Quận 2</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>007</td><td>007</td><td>Bệnh Viện Giao Thông Vận Tải 8</td><td>Bệnh Viện Giao Thông Vận Tải 8</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>008</td><td>008</td><td>Phòng Khám Đa Khoa Bưu Điện</td><td>Phòng Khám Đa Khoa Bưu Điện</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>009</td><td>009</td><td>Trung Tâm Y Tế Quận 3</td><td>Trung Tâm Y Tế Quận 3</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>010</td><td>010</td><td>Trung Tâm Y Tế Quận 4</td><td>Trung Tâm Y Tế Quận 4</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>011</td><td>011</td><td>Bệnh Viện 30/4</td><td>Bệnh Viện 30/4</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>012</td><td>012</td><td>Bệnh Viện An Bình</td><td>Bệnh Viện An Bình</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>013</td><td>013</td><td>Bệnh Viện Nguyễn Tri Phương</td><td>Bệnh Viện Nguyễn Tri Phương</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>014</td><td>014</td><td>Bệnh Viện Nguyễn Trãi</td><td>Bệnh Viện Nguyễn Trãi</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>015</td><td>015</td><td>Trung Tâm Y Tế Quận 5</td><td>Trung Tâm Y Tế Quận 5</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>016</td><td>016</td><td>Viện Quân Y 7a</td><td>Viện Quân Y 7a</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>017</td><td>017</td><td>Trung Tâm Y Tế Quận 6</td><td>Trung Tâm Y Tế Quận 6</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>018</td><td>018</td><td>Pkđk Khu Chế Xuất Tân Thuận</td><td>Pkđk Khu Chế Xuất Tân Thuận</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>019</td><td>019</td><td>Trung Tâm Y Tế Quận 7</td><td>Trung Tâm Y Tế Quận 7</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>020</td><td>020</td><td>Bv Đd Phcn Đt Bệnh Nghề Nghiệp</td><td>Bv Đd Phcn Đt Bệnh Nghề Nghiệp</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>021</td><td>021</td><td>Trung Tâm Y Tế Quận 8</td><td>Trung Tâm Y Tế Quận 8</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>022</td><td>022</td><td>Trung Tâm Y Tế Quận 9</td><td>Trung Tâm Y Tế Quận 9</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>023</td><td>023</td><td>Bệnh Viện Bưu Điện 2</td><td>Bệnh Viện Bưu Điện 2</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>024</td><td>024</td><td>Bệnh Viện Nhân Dân 115</td><td>Bệnh Viện Nhân Dân 115</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>025</td><td>025</td><td>Bệnh Viện Thống Nhất</td><td>Bệnh Viện Thống Nhất</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>026</td><td>026</td><td>Tt Cấp Cứu Trưng Vương</td><td>Tt Cấp Cứu Trưng Vương</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>027</td><td>027</td><td>Trung Tâm Y Tế Quận 10</td><td>Trung Tâm Y Tế Quận 10</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>028</td><td>028</td><td>Trung Tâm Y Tế Quận 11</td><td>Trung Tâm Y Tế Quận 11</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>029</td><td>029</td><td>Trung Tâm Y Tế Quận 12</td><td>Trung Tâm Y Tế Quận 12</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>030</td><td>030</td><td>Bệnh Viện Nhân Dân Gia Định</td><td>Bệnh Viện Nhân Dân Gia Định</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>031</td><td>031</td><td>Tt Y Tế Quận Bình Thạnh</td><td>Tt Y Tế Quận Bình Thạnh</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>032</td><td>032</td><td>Tt Y Tế Quận Phú Nhuận</td><td>Tt Y Tế Quận Phú Nhuận</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>033</td><td>033</td><td>Tt Y Tế Quận Tân Bình</td><td>Tt Y Tế Quận Tân Bình</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>034</td><td>034</td><td>Bệnh Viện 175</td><td>Bệnh Viện 175</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>035</td><td>035</td><td>Trung Tâm Y Tế Quận Gò Vấp</td><td>Trung Tâm Y Tế Quận Gò Vấp</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>036</td><td>036</td><td>Bv Đa Khoa Khu Vực Thủ Đức</td><td>Bv Đa Khoa Khu Vực Thủ Đức</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>037</td><td>037</td><td>Trung Tâm Y Tế Quận Thủ Đức</td><td>Trung Tâm Y Tế Quận Thủ Đức</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>038</td><td>038</td><td>Tt Y Tế Huyện Bình Chánh</td><td>Tt Y Tế Huyện Bình Chánh</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>039</td><td>039</td><td>Bệnh Viện An Nhơn Tây</td><td>Bệnh Viện An Nhơn Tây</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>040</td><td>040</td><td>Trung Tâm Y Tế Huyện Củ Chi</td><td>Trung Tâm Y Tế Huyện Củ Chi</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>041</td><td>041</td><td>Trung Tâm Y Tế Huyện Hóc Môn</td><td>Trung Tâm Y Tế Huyện Hóc Môn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>042</td><td>042</td><td>Trung Tâm Y Tế Huyện Cần Giờ</td><td>Trung Tâm Y Tế Huyện Cần Giờ</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>043</td><td>043</td><td>Y Tế Cơ Quan</td><td>Y Tế Cơ Quan</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>044</td><td>044</td><td>Bv Đd & Phục Hồi C.năng Bđ Ii</td><td>Bv Đd & Phục Hồi C.năng Bđ Ii</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>045</td><td>045</td><td>Tt Y Tế Huyện Nhà Bè</td><td>Tt Y Tế Huyện Nhà Bè</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>046</td><td>046</td><td>Trạm Y Tế Kcn Lê Minh Xuân</td><td>Trạm Y Tế Kcn Lê Minh Xuân</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>047</td><td>047</td><td>Trạm Y Tế Đại Học Quốc Gia</td><td>Trạm Y Tế Đại Học Quốc Gia</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>048</td><td>048</td><td>Bệnh Viện Chợ Rẫy</td><td>Bệnh Viện Chợ Rẫy</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>049</td><td>049</td><td>Pkđk 229 Hoàng Văn Thụ</td><td>Pkđk 229 Hoàng Văn Thụ</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>050</td><td>050</td><td>Pk Kcn Tân Tạo</td><td>Pk Kcn Tân Tạo</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>051</td><td>051</td><td>Tt Y Tế Quận 1 - Tân Định</td><td>Tt Y Tế Quận 1 - Tân Định</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>052</td><td>052</td><td>Pkđk Rạch Cát Q8</td><td>Pkđk Rạch Cát Q8</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>053</td><td>053</td><td>Pkđk Xóm Củi Q8</td><td>Pkđk Xóm Củi Q8</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>054</td><td>054</td><td>Ttyt Quận Tân Phú</td><td>Ttyt Quận Tân Phú</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>055</td><td>055</td><td>Ttyt Quận Bình Tân</td><td>Ttyt Quận Bình Tân</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>056</td><td>056</td><td>Pkđk Cao Lỗ Q8</td><td>Pkđk Cao Lỗ Q8</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>100</td><td>100</td><td>Ttyt Quận Hải Châu - Đà Nẵng</td><td>Ttyt Quận Hải Châu - Đà Nẵng</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>101</td><td>101</td><td>Ttyt Quận Thanh Khê - Đà Nẵng</td><td>Ttyt Quận Thanh Khê - Đà Nẵng</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>102</td><td>102</td><td>Ttyt Quận Sơn Trà - Đà Nẵng</td><td>Ttyt Quận Sơn Trà - Đà Nẵng</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>103</td><td>103</td><td>Ttyt Quận Liên Chiểu - Đà Nẵng</td><td>Ttyt Quận Liên Chiểu - Đà Nẵng</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>104</td><td>104</td><td>Ttyt Q.ngũ Hành Sơn - Đà Nẵng</td><td>Ttyt Q.ngũ Hành Sơn - Đà Nẵng</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>105</td><td>105</td><td>Ttyt H.hòa Vang - Đà Nẵng</td><td>Ttyt H.hòa Vang - Đà Nẵng</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>106</td><td>106</td><td>Bv Giao Thông V</td><td>Bv Giao Thông V</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>107</td><td>107</td><td>Bệnh Viện 199 - Bộ Công An</td><td>Bệnh Viện 199 - Bộ Công An</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>108</td><td>108</td><td>Bệnh Viện Đk Đà Nẵng</td><td>Bệnh Viện Đk Đà Nẵng</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>109</td><td>109</td><td>Bệnh Viện 7b - Đồng Nai</td><td>Bệnh Viện 7b - Đồng Nai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>110</td><td>110</td><td>Bv Công Ty Cao Su - Đồng Nai</td><td>Bv Công Ty Cao Su - Đồng Nai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>111</td><td>111</td><td>Bv Kv Long Thành - Đồng Nai</td><td>Bv Kv Long Thành - Đồng Nai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>112</td><td>112</td><td>Bv Kv Tân Phú - Đồng Nai</td><td>Bv Kv Tân Phú - Đồng Nai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>113</td><td>113</td><td>Bv Kv Xuân Lộc - Đồng Nai</td><td>Bv Kv Xuân Lộc - Đồng Nai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>114</td><td>114</td><td>Bv Tỉnh Đồng Nai</td><td>Bv Tỉnh Đồng Nai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>115</td><td>115</td><td>Bv Đk Kv Thống Nhất Đồng Nai</td><td>Bv Đk Kv Thống Nhất Đồng Nai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>116</td><td>116</td><td>Pkđk Kv Bửu Hòa - Đồng Nai</td><td>Pkđk Kv Bửu Hòa - Đồng Nai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>117</td><td>117</td><td>Pkđk Kv Cây Gáo - Đồng Nai</td><td>Pkđk Kv Cây Gáo - Đồng Nai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>118</td><td>118</td><td>Pkđk Kv Kiệm Tân - Đồng Nai</td><td>Pkđk Kv Kiệm Tân - Đồng Nai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>119</td><td>119</td><td>Pkđk Kv Long Phước - Đồng Nai</td><td>Pkđk Kv Long Phước - Đồng Nai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>120</td><td>120</td><td>Pkđk Kv Phú Lý - Đồng Nai</td><td>Pkđk Kv Phú Lý - Đồng Nai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>121</td><td>121</td><td>Pkđk Kv Phú Túc - Đồng Nai</td><td>Pkđk Kv Phú Túc - Đồng Nai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>122</td><td>122</td><td>Pkđk Kv Sông Ray - Đồng Nai</td><td>Pkđk Kv Sông Ray - Đồng Nai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>123</td><td>123</td><td>Pkđk Kv Thạnh Phú - Đồng Nai</td><td>Pkđk Kv Thạnh Phú - Đồng Nai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>124</td><td>124</td><td>Pkđk Kv Xuân Hưng - Đồng Nai</td><td>Pkđk Kv Xuân Hưng - Đồng Nai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>125</td><td>125</td><td>Pkđk Quân Dân Y 22 - Đồng Nai</td><td>Pkđk Quân Dân Y 22 - Đồng Nai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>126</td><td>126</td><td>Pkđk Tn Liên Chi - Đồng Nai</td><td>Pkđk Tn Liên Chi - Đồng Nai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>127</td><td>127</td><td>Pkkv Nam Cát Tiên - Đồng Nai</td><td>Pkkv Nam Cát Tiên - Đồng Nai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>128</td><td>128</td><td>Ttyt H. Nhơn Trạch - Đồng Nai</td><td>Ttyt H. Nhơn Trạch - Đồng Nai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>129</td><td>129</td><td>Ttyt H. Tân Phú - Đồng Nai</td><td>Ttyt H. Tân Phú - Đồng Nai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>130</td><td>130</td><td>Ttyt H. Thống Nhất - Đồng Nai</td><td>Ttyt H. Thống Nhất - Đồng Nai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>131</td><td>131</td><td>Ttyt H. Trảng Bom - Đồng Nai</td><td>Ttyt H. Trảng Bom - Đồng Nai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>132</td><td>132</td><td>Ttyt H. Vĩnh Cửu - Đồng Nai</td><td>Ttyt H. Vĩnh Cửu - Đồng Nai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>133</td><td>133</td><td>Ttyt H. Xuân Lộc - Đồng Nai</td><td>Ttyt H. Xuân Lộc - Đồng Nai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>134</td><td>134</td><td>Ttyt Biên Hòa - Đồng Nai</td><td>Ttyt Biên Hòa - Đồng Nai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>135</td><td>135</td><td>Ttyt H. Cẩm Mỹ - Đồng Nai</td><td>Ttyt H. Cẩm Mỹ - Đồng Nai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>136</td><td>136</td><td>Ttyt Khu Công Nghiệp - Đồng Nai</td><td>Ttyt Khu Công Nghiệp - Đồng Nai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>137</td><td>137</td><td>Bệnh Viện Đa Khoa Đăklăk</td><td>Bệnh Viện Đa Khoa Đăklăk</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>138</td><td>138</td><td>Bệnh Viện Y Học Cổ Truyền Đăklăk</td><td>Bệnh Viện Y Học Cổ Truyền Đăklăk</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>139</td><td>139</td><td>Ttyt Thành Phố Buôn Mê Thuột</td><td>Ttyt Thành Phố Buôn Mê Thuột</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>140</td><td>140</td><td>Ttyt Huyện Buôn Đôn</td><td>Ttyt Huyện Buôn Đôn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>141</td><td>141</td><td>Ttyt Huyện Krông Bông</td><td>Ttyt Huyện Krông Bông</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>142</td><td>142</td><td>Ttyt Huyện Easup</td><td>Ttyt Huyện Easup</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>143</td><td>143</td><td>Ttyt Huyện Krông Ana (tt Liên Sơn)</td><td>Ttyt Huyện Krông Ana (tt Liên Sơn)</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>144</td><td>144</td><td>Ttyt Huyện Krông Bông (tt Phước An)</td><td>Ttyt Huyện Krông Bông (tt Phước An)</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>145</td><td>145</td><td>Ttyt Huyện Krôngpuk</td><td>Ttyt Huyện Krôngpuk</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>146</td><td>146</td><td>Ttyt Huyện Eahleo</td><td>Ttyt Huyện Eahleo</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>147</td><td>147</td><td>Ttyt Huyện Krông Năng</td><td>Ttyt Huyện Krông Năng</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>148</td><td>148</td><td>Ttyt Huyện Krông Ana (tt Buôn Trấp)</td><td>Ttyt Huyện Krông Ana (tt Buôn Trấp)</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>149</td><td>149</td><td>Ttyt Huyện Cư M'gar</td><td>Ttyt Huyện Cư M'gar</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>150</td><td>150</td><td>Ttyt Eakar</td><td>Ttyt Eakar</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>151</td><td>151</td><td>Ttyt M'đrăk</td><td>Ttyt M'đrăk</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>152</td><td>152</td><td>Bv Mắt - Răng Hàm Mặt - Cần Thơ</td><td>Bv Mắt - Răng Hàm Mặt - Cần Thơ</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>153</td><td>153</td><td>Bv Tai Mũi Họng - Cần Thơ</td><td>Bv Tai Mũi Họng - Cần Thơ</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>154</td><td>154</td><td>Bv 30/4 - Cần Thơ</td><td>Bv 30/4 - Cần Thơ</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>155</td><td>155</td><td>Bệnh Viện Đa Khoa Cần Thơ</td><td>Bệnh Viện Đa Khoa Cần Thơ</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>175</td><td>175</td><td>Bệnh Viện Tỉnh Khánh Hòa</td><td>Bệnh Viện Tỉnh Khánh Hòa</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>176</td><td>176</td><td>Ttyt Tp. Nha Trang</td><td>Ttyt Tp. Nha Trang</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>177</td><td>177</td><td>Ttyt Tp. Nha Trang -pk Số 1</td><td>Ttyt Tp. Nha Trang -pk Số 1</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>178</td><td>178</td><td>Ttyt Tp. Nha Trang -pk Số 2</td><td>Ttyt Tp. Nha Trang -pk Số 2</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>179</td><td>179</td><td>Ttyt Tp. Nha Trang -pk Số 3</td><td>Ttyt Tp. Nha Trang -pk Số 3</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>180</td><td>180</td><td>Ttyt Tp. Nha Trang -pk Số 4</td><td>Ttyt Tp. Nha Trang -pk Số 4</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>181</td><td>181</td><td>Ttyt Thị Xã Cam Ranh</td><td>Ttyt Thị Xã Cam Ranh</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>182</td><td>182</td><td>Ttyt Huyện Ninh Hòa</td><td>Ttyt Huyện Ninh Hòa</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>183</td><td>183</td><td>Ttyt Huyện Vạn Ninh</td><td>Ttyt Huyện Vạn Ninh</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>184</td><td>184</td><td>Ttyt Huyện Khánh Vĩnh</td><td>Ttyt Huyện Khánh Vĩnh</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>185</td><td>185</td><td>Ttyt Huyện Diên Khánh</td><td>Ttyt Huyện Diên Khánh</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>186</td><td>186</td><td>Ttyt Huyện Khánh Sơn</td><td>Ttyt Huyện Khánh Sơn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>187</td><td>187</td><td>Bv Giao Thông Vt 6 - Khánh Hòa</td><td>Bv Giao Thông Vt 6 - Khánh Hòa</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>188</td><td>188</td><td>Bv Quân Y 87 - Khánh Hòa</td><td>Bv Quân Y 87 - Khánh Hòa</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>248</td><td>248</td><td>Bệnh Viện Tỉnh Ninh Thuận</td><td>Bệnh Viện Tỉnh Ninh Thuận</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>249</td><td>249</td><td>Bệnh Viện Gtvt - Ninh Thuận</td><td>Bệnh Viện Gtvt - Ninh Thuận</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>250</td><td>250</td><td>Bệnh Viện Đkkv Ninh Sơn</td><td>Bệnh Viện Đkkv Ninh Sơn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>251</td><td>251</td><td>Ttyt Huyện Ninh Phước</td><td>Ttyt Huyện Ninh Phước</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>252</td><td>252</td><td>Ttyt Huyện Ninh Hải</td><td>Ttyt Huyện Ninh Hải</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>253</td><td>253</td><td>Ttyt Huyện Bác ái</td><td>Ttyt Huyện Bác ái</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>281</td><td>281</td><td>Ttyt Quận Ba Đình</td><td>Ttyt Quận Ba Đình</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>282</td><td>282</td><td>Ttyt Quận Hai Bà Trưng</td><td>Ttyt Quận Hai Bà Trưng</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>283</td><td>283</td><td>Ttyt Quận Hoàn Kiếm</td><td>Ttyt Quận Hoàn Kiếm</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>284</td><td>284</td><td>Ttyt Quận Đống Đa</td><td>Ttyt Quận Đống Đa</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>285</td><td>285</td><td>Ttyt Quận Tây Hồ</td><td>Ttyt Quận Tây Hồ</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>286</td><td>286</td><td>Ttyt Quận Thanh Xuân</td><td>Ttyt Quận Thanh Xuân</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>287</td><td>287</td><td>Ttyt Quận Long Biên</td><td>Ttyt Quận Long Biên</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>288</td><td>288</td><td>Ttyt Quận Hoàng Mai</td><td>Ttyt Quận Hoàng Mai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>289</td><td>289</td><td>Ttyt Huyện Sóc Sơn</td><td>Ttyt Huyện Sóc Sơn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>290</td><td>290</td><td>Ttyt Huyện Đông Anh</td><td>Ttyt Huyện Đông Anh</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>291</td><td>291</td><td>Ttyt Huyện Gia Lâm</td><td>Ttyt Huyện Gia Lâm</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>292</td><td>292</td><td>Ttyt Huyện Thanh Trì</td><td>Ttyt Huyện Thanh Trì</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>293</td><td>293</td><td>Pkđk Cầu Diễn</td><td>Pkđk Cầu Diễn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>294</td><td>294</td><td>Ttyt Bộ Xây Dựng</td><td>Ttyt Bộ Xây Dựng</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>295</td><td>295</td><td>Ttyt Giao Thông Thăng Long</td><td>Ttyt Giao Thông Thăng Long</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>296</td><td>296</td><td>Ttyt Hàng Không</td><td>Ttyt Hàng Không</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>297</td><td>297</td><td>Phòng Khám Gtvt Gia Lâm</td><td>Phòng Khám Gtvt Gia Lâm</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>298</td><td>298</td><td>Tt Vận Chuyển Cấp Cứu 115</td><td>Tt Vận Chuyển Cấp Cứu 115</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>299</td><td>299</td><td>Ttyt Lao Động</td><td>Ttyt Lao Động</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>300</td><td>300</td><td>Bệnh Viện Thanh Nhàn</td><td>Bệnh Viện Thanh Nhàn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>301</td><td>301</td><td>Bệnh Viện Đống Đa</td><td>Bệnh Viện Đống Đa</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>302</td><td>302</td><td>Bv Việt Nam - Cu Ba</td><td>Bv Việt Nam - Cu Ba</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>303</td><td>303</td><td>Bệnh Viện Yhct Hà Nội</td><td>Bệnh Viện Yhct Hà Nội</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>304</td><td>304</td><td>Bệnh Viện Gtvt I</td><td>Bệnh Viện Gtvt I</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>305</td><td>305</td><td>Bệnh Viện E</td><td>Bệnh Viện E</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>306</td><td>306</td><td>Bv Bắc Thăng Long</td><td>Bv Bắc Thăng Long</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>307</td><td>307</td><td>Bv Đa Khoa Đức Giang</td><td>Bv Đa Khoa Đức Giang</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>308</td><td>308</td><td>Bệnh Viện Nông Nghiệp</td><td>Bệnh Viện Nông Nghiệp</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>309</td><td>309</td><td>Bv Bán Công Hòe Nhai</td><td>Bv Bán Công Hòe Nhai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>310</td><td>310</td><td>Bv Yhct Quân Đội</td><td>Bv Yhct Quân Đội</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>311</td><td>311</td><td>Bv 198 Bộ Công An</td><td>Bv 198 Bộ Công An</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>312</td><td>312</td><td>Bv Yhct Bộ Công An</td><td>Bv Yhct Bộ Công An</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>313</td><td>313</td><td>Bệnh Viện Đk Tràng An</td><td>Bệnh Viện Đk Tràng An</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>314</td><td>314</td><td>Bv Đd & Phcn Thăng Long</td><td>Bv Đd & Phcn Thăng Long</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>315</td><td>315</td><td>Bệnh Viện 354</td><td>Bệnh Viện 354</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>316</td><td>316</td><td>Bv Đa Khoa Tỉnh Hà Tây</td><td>Bv Đa Khoa Tỉnh Hà Tây</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>317</td><td>317</td><td>Bệnh Viện 103</td><td>Bệnh Viện 103</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>318</td><td>318</td><td>Bệnh Viện Kv Sơn Tây</td><td>Bệnh Viện Kv Sơn Tây</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>319</td><td>319</td><td>Bệnh Viện Ba Vì</td><td>Bệnh Viện Ba Vì</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>320</td><td>320</td><td>Bệnh Viện Phúc Thọ</td><td>Bệnh Viện Phúc Thọ</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>321</td><td>321</td><td>Bệnh Viện Thạch Thất</td><td>Bệnh Viện Thạch Thất</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>322</td><td>322</td><td>Bệnh Viện Quốc Oai</td><td>Bệnh Viện Quốc Oai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>323</td><td>323</td><td>Bệnh Viện Đan Phượng</td><td>Bệnh Viện Đan Phượng</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>324</td><td>324</td><td>Bệnh Viện Hoài Đức</td><td>Bệnh Viện Hoài Đức</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>325</td><td>325</td><td>Bệnh Viện Chương Mỹ</td><td>Bệnh Viện Chương Mỹ</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>326</td><td>326</td><td>Bệnh Viện Thanh Oai</td><td>Bệnh Viện Thanh Oai</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>327</td><td>327</td><td>Bệnh Viện Tx Hà Đông</td><td>Bệnh Viện Tx Hà Đông</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>328</td><td>328</td><td>Bệnh Viện Ưng Hòa</td><td>Bệnh Viện Ưng Hòa</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>329</td><td>329</td><td>Bệnh Viện Mỹ Đức</td><td>Bệnh Viện Mỹ Đức</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>330</td><td>330</td><td>Bệnh Viện Phú Xuyên</td><td>Bệnh Viện Phú Xuyên</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>331</td><td>331</td><td>Bệnh Viện Thường Tín</td><td>Bệnh Viện Thường Tín</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>332</td><td>332</td><td>Bệnh Viện 105</td><td>Bệnh Viện 105</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>333</td><td>333</td><td>Ttyt Tp. Long Xuyên</td><td>Ttyt Tp. Long Xuyên</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>334</td><td>334</td><td>Ttyt Tx Châu Đốc</td><td>Ttyt Tx Châu Đốc</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>335</td><td>335</td><td>Ttyt Huyện Châu Thành - Ag</td><td>Ttyt Huyện Châu Thành - Ag</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>336</td><td>336</td><td>Ttyt Huyện Châu Phú - Ag</td><td>Ttyt Huyện Châu Phú - Ag</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>337</td><td>337</td><td>Ttyt Huyện An Phú - Ag</td><td>Ttyt Huyện An Phú - Ag</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>338</td><td>338</td><td>Ttyt Huyện Tân Châu</td><td>Ttyt Huyện Tân Châu</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>339</td><td>339</td><td>Ttyt Huyện Phú Tân</td><td>Ttyt Huyện Phú Tân</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>340</td><td>340</td><td>Ttyt Huyện Chợ Mới - Ag</td><td>Ttyt Huyện Chợ Mới - Ag</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>341</td><td>341</td><td>Ttyt Huyện Thoại Sơn</td><td>Ttyt Huyện Thoại Sơn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>342</td><td>342</td><td>Ttyt Huyện Tri Tôn</td><td>Ttyt Huyện Tri Tôn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>343</td><td>343</td><td>Ttyt Huyện Tịnh Biên</td><td>Ttyt Huyện Tịnh Biên</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>407</td><td>407</td><td>Bệnh Viện Lê Lợi</td><td>Bệnh Viện Lê Lợi</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>408</td><td>408</td><td>Bệnh Viện Bà Rịa</td><td>Bệnh Viện Bà Rịa</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>409</td><td>409</td><td>Ttyt Tp. Vũng Tàu</td><td>Ttyt Tp. Vũng Tàu</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>410</td><td>410</td><td>Ttyt Thị Xã Bà Rịa</td><td>Ttyt Thị Xã Bà Rịa</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>411</td><td>411</td><td>Ttyt Huyện Long Điền</td><td>Ttyt Huyện Long Điền</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>412</td><td>412</td><td>Ttyt Huyện Đất Đỏ</td><td>Ttyt Huyện Đất Đỏ</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>413</td><td>413</td><td>Ttyt Huyện Xuyên Mộc</td><td>Ttyt Huyện Xuyên Mộc</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>414</td><td>414</td><td>Ttyt Huyện Châu Đức</td><td>Ttyt Huyện Châu Đức</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>415</td><td>415</td><td>Ttyt Huyện Tân Thành</td><td>Ttyt Huyện Tân Thành</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>416</td><td>416</td><td>Ttyt Huyện Côn Đảo</td><td>Ttyt Huyện Côn Đảo</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>417</td><td>417</td><td>Phòng Khám Kv 1 - Brvt</td><td>Phòng Khám Kv 1 - Brvt</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>443</td><td>443</td><td>Bệnh Viện Đk Tỉnh Kon Tum</td><td>Bệnh Viện Đk Tỉnh Kon Tum</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>444</td><td>444</td><td>Ttyt Đăk Hà</td><td>Ttyt Đăk Hà</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>445</td><td>445</td><td>Ttyt Đăk Tô</td><td>Ttyt Đăk Tô</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>446</td><td>446</td><td>Ttyt Đăk Glei</td><td>Ttyt Đăk Glei</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>447</td><td>447</td><td>Ttyt Kon Rẫy</td><td>Ttyt Kon Rẫy</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>448</td><td>448</td><td>Ttyt Ngọc Hồi</td><td>Ttyt Ngọc Hồi</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>449</td><td>449</td><td>Ttyt Sa Thầy</td><td>Ttyt Sa Thầy</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>450</td><td>450</td><td>Ttyt Konplong</td><td>Ttyt Konplong</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>451</td><td>451</td><td>Ttyt Tx Kon Tum</td><td>Ttyt Tx Kon Tum</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>452</td><td>452</td><td>Pk Tt Phòng Chống Bệnh Xh</td><td>Pk Tt Phòng Chống Bệnh Xh</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>453</td><td>453</td><td>Ttyt Cty Cao Su Kon Tum</td><td>Ttyt Cty Cao Su Kon Tum</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>454</td><td>454</td><td>Pk Khu Vục Plei Krông</td><td>Pk Khu Vục Plei Krông</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>455</td><td>455</td><td>Bv Đk Tỉnh Đăk Nông</td><td>Bv Đk Tỉnh Đăk Nông</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>456</td><td>456</td><td>Ttyt Huyện Đắk Rlấp</td><td>Ttyt Huyện Đắk Rlấp</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>457</td><td>457</td><td>Ttyt Huyện Đắk Song</td><td>Ttyt Huyện Đắk Song</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>458</td><td>458</td><td>Ttyt Huyện Đắk Mil</td><td>Ttyt Huyện Đắk Mil</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>459</td><td>459</td><td>Ttyt Huyện Cư Jút</td><td>Ttyt Huyện Cư Jút</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>460</td><td>460</td><td>Ttyt Huyện Krông Nô</td><td>Ttyt Huyện Krông Nô</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>481</td><td>481</td><td>Bệnh Viện Đk Tỉnh Phú Yên</td><td>Bệnh Viện Đk Tỉnh Phú Yên</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>482</td><td>482</td><td>Ttyt Tx Tuy Hòa</td><td>Ttyt Tx Tuy Hòa</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>483</td><td>483</td><td>Ttyt Huyện Tuy An</td><td>Ttyt Huyện Tuy An</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>484</td><td>484</td><td>Ttyt Huyện Sông Cầu</td><td>Ttyt Huyện Sông Cầu</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>485</td><td>485</td><td>Ttyt Huyện Đồng Xuân</td><td>Ttyt Huyện Đồng Xuân</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>486</td><td>486</td><td>Ttyt Huyện Sơn Hòa</td><td>Ttyt Huyện Sơn Hòa</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>487</td><td>487</td><td>Ttyt Huyện Sông Hinh</td><td>Ttyt Huyện Sông Hinh</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>488</td><td>488</td><td>Ttyt Huyện Tuy Hòa</td><td>Ttyt Huyện Tuy Hòa</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>489</td><td>489</td><td>Bệnh Viện Phú Lâm</td><td>Bệnh Viện Phú Lâm</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>490</td><td>490</td><td>Bệnh Viện Phú Thứ</td><td>Bệnh Viện Phú Thứ</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>491</td><td>491</td><td>Bệnh Viện Đk Tỉnh Bình Định</td><td>Bệnh Viện Đk Tỉnh Bình Định</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>492</td><td>492</td><td>Bệnh Viện Đk Kv Bồng Sơn</td><td>Bệnh Viện Đk Kv Bồng Sơn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>493</td><td>493</td><td>Bv Tư Nhân Hòa Bình</td><td>Bv Tư Nhân Hòa Bình</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>494</td><td>494</td><td>Ttyt Tp. Quy Nhơn</td><td>Ttyt Tp. Quy Nhơn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>495</td><td>495</td><td>Ttyt Huyện Tuy Phước</td><td>Ttyt Huyện Tuy Phước</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>496</td><td>496</td><td>Ttyt Huyện Vân Canh</td><td>Ttyt Huyện Vân Canh</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>497</td><td>497</td><td>Ttyt Huyện An Nhơn</td><td>Ttyt Huyện An Nhơn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>498</td><td>498</td><td>Ttyt Huyện Phù Cát</td><td>Ttyt Huyện Phù Cát</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>499</td><td>499</td><td>Ttyt Huyện Phù Mỹ</td><td>Ttyt Huyện Phù Mỹ</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>500</td><td>500</td><td>Ttyt Huyện Tây Sơn</td><td>Ttyt Huyện Tây Sơn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>501</td><td>501</td><td>Ttyt Huyện Vĩnh Thạnh</td><td>Ttyt Huyện Vĩnh Thạnh</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>502</td><td>502</td><td>Ttyt Huyện Hoài Nhơn</td><td>Ttyt Huyện Hoài Nhơn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>503</td><td>503</td><td>Ttyt Huyện Hoài An</td><td>Ttyt Huyện Hoài An</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>504</td><td>504</td><td>Ttyt Huyện An Lão</td><td>Ttyt Huyện An Lão</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>528</td><td>528</td><td>Bệnh Viện Kim Bảng</td><td>Bệnh Viện Kim Bảng</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>529</td><td>529</td><td>Bệnh Viện Thanh Liêm</td><td>Bệnh Viện Thanh Liêm</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>530</td><td>530</td><td>Bệnh Viện Duy Tiên</td><td>Bệnh Viện Duy Tiên</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>531</td><td>531</td><td>Bệnh Viện Bình Lục</td><td>Bệnh Viện Bình Lục</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>532</td><td>532</td><td>Bệnh Viện Lý Nhân</td><td>Bệnh Viện Lý Nhân</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>533</td><td>533</td><td>Ttyt Tx Phủ Lý</td><td>Ttyt Tx Phủ Lý</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>535</td><td>535</td><td>Bệnh Viện Bưu Điện Hà Nội</td><td>Bệnh Viện Bưu Điện Hà Nội</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>560</td><td>560</td><td>Ttyt Thành Phố Lạng Sơn</td><td>Ttyt Thành Phố Lạng Sơn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>561</td><td>561</td><td>Ttyt Huyện Trành Định</td><td>Ttyt Huyện Trành Định</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>562</td><td>562</td><td>Ttyt Huyện Bình Gia</td><td>Ttyt Huyện Bình Gia</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>563</td><td>563</td><td>Ttyt Huyện Văn Lãng</td><td>Ttyt Huyện Văn Lãng</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>564</td><td>564</td><td>Ttyt Huyện Bắc Sơn</td><td>Ttyt Huyện Bắc Sơn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>565</td><td>565</td><td>Ttyt Huyện Văn Quan</td><td>Ttyt Huyện Văn Quan</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>566</td><td>566</td><td>Ttyt Huyện Cao Lộc</td><td>Ttyt Huyện Cao Lộc</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>567</td><td>567</td><td>Ttyt Huyện Lộc Bình</td><td>Ttyt Huyện Lộc Bình</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>568</td><td>568</td><td>Ttyt Huyện Chi Lăng</td><td>Ttyt Huyện Chi Lăng</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>569</td><td>569</td><td>Ttyt Huyện Đình Lập</td><td>Ttyt Huyện Đình Lập</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>570</td><td>570</td><td>Ttyt Huyện Hữu Lũng</td><td>Ttyt Huyện Hữu Lũng</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>571</td><td>571</td><td>Bệnh Viện Đk Tỉnh Lạng Sơn</td><td>Bệnh Viện Đk Tỉnh Lạng Sơn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>572</td><td>572</td><td>Ban Bv Sức Khỏe Tỉnh Lạng Sơn</td><td>Ban Bv Sức Khỏe Tỉnh Lạng Sơn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>604</td><td>604</td><td>Ttyt Quận Ngô Quyền</td><td>Ttyt Quận Ngô Quyền</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>605</td><td>605</td><td>Ttyt Quận Lê Chân</td><td>Ttyt Quận Lê Chân</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>606</td><td>606</td><td>Ttyt Quận Hồng Bàng</td><td>Ttyt Quận Hồng Bàng</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>607</td><td>607</td><td>Ttyt Quảng Hải An</td><td>Ttyt Quảng Hải An</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>608</td><td>608</td><td>Ttyt Quận Kiến An</td><td>Ttyt Quận Kiến An</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>609</td><td>609</td><td>Ttyt Huyện An Dương</td><td>Ttyt Huyện An Dương</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>610</td><td>610</td><td>Ttyt Huyện Thủy Nguyên</td><td>Ttyt Huyện Thủy Nguyên</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>611</td><td>611</td><td>Ttyt Huyện Kiến Thủy</td><td>Ttyt Huyện Kiến Thủy</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>612</td><td>612</td><td>Ttyt Huyện An Lão</td><td>Ttyt Huyện An Lão</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>613</td><td>613</td><td>Ttyt Huyện Vĩnh Bảo</td><td>Ttyt Huyện Vĩnh Bảo</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>614</td><td>614</td><td>Ttyt Huyện Tiên Lãng</td><td>Ttyt Huyện Tiên Lãng</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>666</td><td>666</td><td>Ttyt Huyện Châu Thành</td><td>Ttyt Huyện Châu Thành</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>667</td><td>667</td><td>Ttyt Huyện Châu Thành A</td><td>Ttyt Huyện Châu Thành A</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>668</td><td>668</td><td>Ttyt Huyện Phụng Hiệp</td><td>Ttyt Huyện Phụng Hiệp</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>669</td><td>669</td><td>Ttyt Huyện Vị Thuỷ</td><td>Ttyt Huyện Vị Thuỷ</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>670</td><td>670</td><td>Ttyt Huyện Long Mỹ</td><td>Ttyt Huyện Long Mỹ</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>671</td><td>671</td><td>Ttyt Thị Xã Vị Thanh</td><td>Ttyt Thị Xã Vị Thanh</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>672</td><td>672</td><td>Bvđk Tỉnh Hậu Giang</td><td>Bvđk Tỉnh Hậu Giang</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>701</td><td>701</td><td>Bệnh Viện Đk Tỉnh Yên Bái</td><td>Bệnh Viện Đk Tỉnh Yên Bái</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>702</td><td>702</td><td>Bv Nghĩa Lộ</td><td>Bv Nghĩa Lộ</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>703</td><td>703</td><td>Bệnh Viện Gtvt 2</td><td>Bệnh Viện Gtvt 2</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>704</td><td>704</td><td>Bv Chè Trần Phú</td><td>Bv Chè Trần Phú</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>705</td><td>705</td><td>Bv Kinh Tế Mới</td><td>Bv Kinh Tế Mới</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>706</td><td>706</td><td>Ttyt Văn Yên</td><td>Ttyt Văn Yên</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>707</td><td>707</td><td>Ttyt Yên Bình</td><td>Ttyt Yên Bình</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>708</td><td>708</td><td>Ttyt Thành Phố Yên Bái</td><td>Ttyt Thành Phố Yên Bái</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>709</td><td>709</td><td>Ttyt Huyện Trấn Yên</td><td>Ttyt Huyện Trấn Yên</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>710</td><td>710</td><td>Ttyt Huyện Trạm Tấu</td><td>Ttyt Huyện Trạm Tấu</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>711</td><td>711</td><td>Ttyt Huyện Mù Cang Chải</td><td>Ttyt Huyện Mù Cang Chải</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>712</td><td>712</td><td>Ttyt Lục Yên</td><td>Ttyt Lục Yên</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>713</td><td>713</td><td>Ttyt Mê Linh</td><td>Ttyt Mê Linh</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>714</td><td>714</td><td>Ttyt Phúc Yên</td><td>Ttyt Phúc Yên</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>715</td><td>715</td><td>Ttyt Bình Xuyên</td><td>Ttyt Bình Xuyên</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>716</td><td>716</td><td>Ttyt Vĩnh Yên</td><td>Ttyt Vĩnh Yên</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>717</td><td>717</td><td>Ttyt Tam Đảo</td><td>Ttyt Tam Đảo</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>718</td><td>718</td><td>Ttyt Tam Dương</td><td>Ttyt Tam Dương</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>719</td><td>719</td><td>Ttyt Lập Thạch</td><td>Ttyt Lập Thạch</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>720</td><td>720</td><td>Ttyt Vĩnh Tường</td><td>Ttyt Vĩnh Tường</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>721</td><td>721</td><td>Ttyt Yên Lạc</td><td>Ttyt Yên Lạc</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>722</td><td>722</td><td>Bệnh Viện Đk Tỉnh Vĩnh Phúc</td><td>Bệnh Viện Đk Tỉnh Vĩnh Phúc</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>723</td><td>723</td><td>Bệnh Viện Đk Kv Mê Linh EN</td><td>Bệnh Viện Đk Kv Mê Linh</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>724</td><td>724</td><td>Bv Lao & Bệnh Phổi Tw Phúc Yên</td><td>Bv Lao & Bệnh Phổi Tw Phúc Yên</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>725</td><td>725</td><td>Bệnh Viện Quân Y 109</td><td>Bệnh Viện Quân Y 109</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>726</td><td>726</td><td>Bệnh viện ĐK Tỉnh Điện Biên</td><td>Bệnh viện ĐK Tỉnh Điện Biên</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>736</td><td>736</td><td>Bệnh Viện Đk Tỉnh Cao Bằng</td><td>Bệnh Viện Đk Tỉnh Cao Bằng</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>737</td><td>737</td><td>Ttyt Huyện Bảo Lạc</td><td>Ttyt Huyện Bảo Lạc</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>738</td><td>738</td><td>Ttyt Huyện Bảo Lâm</td><td>Ttyt Huyện Bảo Lâm</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>739</td><td>739</td><td>Ttyt Huyện Nguyên Bình</td><td>Ttyt Huyện Nguyên Bình</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>740</td><td>740</td><td>Ttyt Huyện Hòa An</td><td>Ttyt Huyện Hòa An</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>741</td><td>741</td><td>Ttyt Huyện Hà Quảng</td><td>Ttyt Huyện Hà Quảng</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>742</td><td>742</td><td>Ttyt Huyện Thông Nông</td><td>Ttyt Huyện Thông Nông</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>743</td><td>743</td><td>Ttyt Thị Xã Cao Bằng</td><td>Ttyt Thị Xã Cao Bằng</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>744</td><td>744</td><td>Ttyt Huyện Thạch An</td><td>Ttyt Huyện Thạch An</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>745</td><td>745</td><td>Ttyt Huyện Trà Lĩnh</td><td>Ttyt Huyện Trà Lĩnh</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>746</td><td>746</td><td>Ttyt Huyện Trùng Khánh</td><td>Ttyt Huyện Trùng Khánh</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>747</td><td>747</td><td>Ttyt Huyện Quảng Uyên</td><td>Ttyt Huyện Quảng Uyên</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>748</td><td>748</td><td>Ttyt Huyện Hạ Lang</td><td>Ttyt Huyện Hạ Lang</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>749</td><td>749</td><td>Ttyt Huyện Phục Hòa</td><td>Ttyt Huyện Phục Hòa</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>750</td><td>750</td><td>Bv Cty K. Sản & Luyện Kim Cb</td><td>Bv Cty K. Sản & Luyện Kim Cb</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>772</td><td>772</td><td>Ttyt Huyện Chợ Mới - Bắc Cạn</td><td>Ttyt Huyện Chợ Mới - Bắc Cạn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>773</td><td>773</td><td>Ttyt Huyện Chợ Đôn</td><td>Ttyt Huyện Chợ Đôn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>774</td><td>774</td><td>Ttyt Huyện Na Rỳ</td><td>Ttyt Huyện Na Rỳ</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>775</td><td>775</td><td>Ttyt Huyện Bạch Thông</td><td>Ttyt Huyện Bạch Thông</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>776</td><td>776</td><td>Ttyt Huyện Ngân Sơn</td><td>Ttyt Huyện Ngân Sơn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>777</td><td>777</td><td>Ttyt Huyện Pác Nặm</td><td>Ttyt Huyện Pác Nặm</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>778</td><td>778</td><td>Ttyt Huyện Ba Bể</td><td>Ttyt Huyện Ba Bể</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>779</td><td>779</td><td>Ttyt Thị Xã Bắc Kạn</td><td>Ttyt Thị Xã Bắc Kạn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>780</td><td>780</td><td>Bệnh Viện Đa Khoa Bắc Kạn</td><td>Bệnh Viện Đa Khoa Bắc Kạn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>792</td><td>792</td><td>Bệnh Viện Hữu Nghị Đk Nghệ An</td><td>Bệnh Viện Hữu Nghị Đk Nghệ An</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>793</td><td>793</td><td>Bệnh Viện Quân Y 4</td><td>Bệnh Viện Quân Y 4</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>794</td><td>794</td><td>Bệnh Viện Yhct Nghệ An</td><td>Bệnh Viện Yhct Nghệ An</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>795</td><td>795</td><td>Bệnh Viện Nhi - Nghệ An</td><td>Bệnh Viện Nhi - Nghệ An</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>796</td><td>796</td><td>Bệnh Viện Gtvt Miền Trung</td><td>Bệnh Viện Gtvt Miền Trung</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>797</td><td>797</td><td>Trung Tâm Nội Tiết</td><td>Trung Tâm Nội Tiết</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>798</td><td>798</td><td>Ttyt Hưng Nguyên</td><td>Ttyt Hưng Nguyên</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>799</td><td>799</td><td>Ttyt Nam Đàn</td><td>Ttyt Nam Đàn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>800</td><td>800</td><td>Ttyt Thanh Chương</td><td>Ttyt Thanh Chương</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>802</td><td>802</td><td>Ttyt Đô Lương</td><td>Ttyt Đô Lương</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>803</td><td>803</td><td>Ttyt Yên Thành</td><td>Ttyt Yên Thành</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>804</td><td>804</td><td>Ttyt Diễn Châu</td><td>Ttyt Diễn Châu</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>805</td><td>805</td><td>Ttyt Quỳnh Lưu</td><td>Ttyt Quỳnh Lưu</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>806</td><td>806</td><td>Ttyt Nghi Lộc</td><td>Ttyt Nghi Lộc</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>807</td><td>807</td><td>Ttyt Anh Sơn</td><td>Ttyt Anh Sơn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>808</td><td>808</td><td>Ttyt Nghĩa Đàn</td><td>Ttyt Nghĩa Đàn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>809</td><td>809</td><td>Ttyt Tân Kỳ</td><td>Ttyt Tân Kỳ</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>810</td><td>810</td><td>Ttyt Con Cuông</td><td>Ttyt Con Cuông</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>811</td><td>811</td><td>Ttyt Tương Dương</td><td>Ttyt Tương Dương</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>812</td><td>812</td><td>Ttyt Kỳ Sơn</td><td>Ttyt Kỳ Sơn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>813</td><td>813</td><td>Ttyt Quỳ Hợp</td><td>Ttyt Quỳ Hợp</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>814</td><td>814</td><td>Ttyt Quỳ Châu</td><td>Ttyt Quỳ Châu</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>815</td><td>815</td><td>Ttyt Quế Phong</td><td>Ttyt Quế Phong</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>816</td><td>816</td><td>Ttyt Thành Phố Vinh</td><td>Ttyt Thành Phố Vinh</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>817</td><td>817</td><td>Ttyt Cửa Lò</td><td>Ttyt Cửa Lò</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>818</td><td>818</td><td>Bệnh Viện Đk Tỉnh Bắc Giang</td><td>Bệnh Viện Đk Tỉnh Bắc Giang</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>819</td><td>819</td><td>Ttyt Thị Xã Bắc Giang</td><td>Ttyt Thị Xã Bắc Giang</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>820</td><td>820</td><td>Ttyt Huyện Yên Dũng</td><td>Ttyt Huyện Yên Dũng</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>821</td><td>821</td><td>Ttyt Huyện Lạng Giang</td><td>Ttyt Huyện Lạng Giang</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>822</td><td>822</td><td>Ttyt Huyện Việt Yên</td><td>Ttyt Huyện Việt Yên</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>823</td><td>823</td><td>Ttyt Huyện Hiệp Hòa</td><td>Ttyt Huyện Hiệp Hòa</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>824</td><td>824</td><td>Ttyt Huyện Tân Yên</td><td>Ttyt Huyện Tân Yên</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>825</td><td>825</td><td>Ttyt Huyện Yên Thế</td><td>Ttyt Huyện Yên Thế</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>826</td><td>826</td><td>Ttyt Huyện Lục Nam</td><td>Ttyt Huyện Lục Nam</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>827</td><td>827</td><td>Bệnh Viện Đk Kv Lục Ngạn</td><td>Bệnh Viện Đk Kv Lục Ngạn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>828</td><td>828</td><td>Ttyt Huyện Lục Ngạn</td><td>Ttyt Huyện Lục Ngạn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>829</td><td>829</td><td>Ttyt Huyện Sơn Động</td><td>Ttyt Huyện Sơn Động</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>830</td><td>830</td><td>Bệnh Viện Đk Tỉnh Lai Châu</td><td>Bệnh Viện Đk Tỉnh Lai Châu</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>831</td><td>831</td><td>Bệnh Viện Kv Thân Thuộc</td><td>Bệnh Viện Kv Thân Thuộc</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>832</td><td>832</td><td>Ttyt Huyện Than Uyên</td><td>Ttyt Huyện Than Uyên</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>833</td><td>833</td><td>Ttyt Huyện Tam Đường</td><td>Ttyt Huyện Tam Đường</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>834</td><td>834</td><td>Ttyt Huyện Phong Thổ</td><td>Ttyt Huyện Phong Thổ</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>835</td><td>835</td><td>Ttyt Huyện Sìn Hồ</td><td>Ttyt Huyện Sìn Hồ</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>836</td><td>836</td><td>Ttyt Huyện Mường Tè</td><td>Ttyt Huyện Mường Tè</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>837</td><td>837</td><td>Bv Đa Khoa Tỉnh Quảng Ninh</td><td>Bv Đa Khoa Tỉnh Quảng Ninh</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>838</td><td>838</td><td>Bệnh Viện Bãi Cháy</td><td>Bệnh Viện Bãi Cháy</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>839</td><td>839</td><td>Bệnh Viện Đk Khu Vực Cẩm Phả</td><td>Bệnh Viện Đk Khu Vực Cẩm Phả</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>840</td><td>840</td><td>Ttyt Móng Cái</td><td>Ttyt Móng Cái</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>841</td><td>841</td><td>Ttyt Cô Tô</td><td>Ttyt Cô Tô</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>842</td><td>842</td><td>Ttyt Cẩm Phả</td><td>Ttyt Cẩm Phả</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>843</td><td>843</td><td>Ttyt Thị Xã Uông Bí</td><td>Ttyt Thị Xã Uông Bí</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>844</td><td>844</td><td>Ttyt Huyện Đông Triều</td><td>Ttyt Huyện Đông Triều</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>845</td><td>845</td><td>Ttyt Mạo Khê</td><td>Ttyt Mạo Khê</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>846</td><td>846</td><td>Ttyt Huyện Yên Hưng</td><td>Ttyt Huyện Yên Hưng</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>847</td><td>847</td><td>Ttyt Huyện Hoành Bồ</td><td>Ttyt Huyện Hoành Bồ</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>848</td><td>848</td><td>Ttyt Huyện Vân Đồn</td><td>Ttyt Huyện Vân Đồn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>849</td><td>849</td><td>Ttyt Huyện Tiên Yên</td><td>Ttyt Huyện Tiên Yên</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>850</td><td>850</td><td>Ttyt Huyện Hải Hà</td><td>Ttyt Huyện Hải Hà</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>851</td><td>851</td><td>Ttyt Huyện Đầm Hà</td><td>Ttyt Huyện Đầm Hà</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>852</td><td>852</td><td>Ttyt Huyện Ba Chẽ</td><td>Ttyt Huyện Ba Chẽ</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>853</td><td>853</td><td>Ttyt Bình Liêu</td><td>Ttyt Bình Liêu</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>854</td><td>854</td><td>Bệnh Viện Hữu Nghị - Hà Nội</td><td>Bệnh Viện Hữu Nghị - Hà Nội</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>884</td><td>884</td><td>Bệnh Viện Đa Khoa Tuyên Quang</td><td>Bệnh Viện Đa Khoa Tuyên Quang</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>885</td><td>885</td><td>Bệnh Viện Y Học Dân Tộc</td><td>Bệnh Viện Y Học Dân Tộc</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>886</td><td>886</td><td>Bv Suối Khoáng Mỹ Lâm</td><td>Bv Suối Khoáng Mỹ Lâm</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>887</td><td>887</td><td>Ttyt Yên Sơn</td><td>Ttyt Yên Sơn</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>888</td><td>888</td><td>Ttyt Sơn Dương</td><td>Ttyt Sơn Dương</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>889</td><td>889</td><td>Ttyt Hàm Yên</td><td>Ttyt Hàm Yên</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>890</td><td>890</td><td>Ttyt Chiêm Hóa</td><td>Ttyt Chiêm Hóa</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>891</td><td>891</td><td>Ttyt Na Hang</td><td>Ttyt Na Hang</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>892</td><td>892</td><td>Trạm Y Tế Bđhad Thủy Điện Tquang</td><td>Trạm Y Tế Bđhad Thủy Điện Tquang</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>893</td><td>893</td><td>Bệnh Viện Hữu Nghị</td><td>Bệnh Viện Hữu Nghị</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>894</td><td>894</td><td>Bệnh Viện Tỉnh Sơn La</td><td>Bệnh Viện Tỉnh Sơn La</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>895</td><td>895</td><td>Bệnh viện y học cổ truyền TW</td><td>Bệnh viện y học cổ truyền TW</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>TX6951</td><td>003</td><td>Bệnh Viện Nhi Đồng 2</td><td>Bệnh Viện Nhi Đồng 2</td><td>&nbsp;</td><td>&nbsp;</td><td>True</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr>
+</table>
